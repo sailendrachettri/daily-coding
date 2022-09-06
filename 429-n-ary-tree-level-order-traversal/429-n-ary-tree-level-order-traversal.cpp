@@ -21,7 +21,6 @@ public:
 class Solution {
 public:
     vector<vector<int>> levelOrder(Node* root) {
-        
         vector<vector<int> > res;
         
         if(root == NULL)
@@ -50,30 +49,6 @@ public:
         }
         
         return res;
+    
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
