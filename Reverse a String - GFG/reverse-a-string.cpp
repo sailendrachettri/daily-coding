@@ -14,8 +14,19 @@ class Solution
     public:
     string reverseWord(string str)
     {
-        reverse(str.begin(), str.end());
-        return str;
+        // reverse(str.begin(), str.end());
+        // return str;
+        
+        string reverse = "";
+        
+        for(int i = str.size()-1; i >= 0; i--)
+        {
+            reverse += str[i];
+        }
+        
+        // cout << "size: " << str.size() << endl << "reverse: " << reverse << endl;
+        
+        return reverse;
     }
 };
 
