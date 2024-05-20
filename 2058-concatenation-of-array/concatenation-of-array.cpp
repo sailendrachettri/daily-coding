@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
-        int idx;
+        
+        int n = nums.size();
+        vector<int> ans(n*2);
 
-        vector<int> ans(nums.size()*2);
-
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < n; i++){
             ans[i] = nums[i];
         }
 
-        idx = nums.size();
-        for(int i = 0; i < nums.size(); i++){
-            ans[idx++] = nums[i];
+        int temp = n;
+        for(int i = 0; i < n; i++){
+            ans[temp++] = nums[i];
         }
 
         return ans;
