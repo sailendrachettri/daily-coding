@@ -1,22 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int start = 0, end = s.size();
-
         sort(s.begin(), s.end());
         sort(t.begin(), t.end());
 
-        cout << s[s.size()-1] << " " << t[t.size()-1] << endl;
-        cout << s.size()-1 << " " << t.size()-1 << endl;
+        int n1 = s.size();
+        int n2 = t.size();
 
-        if(s.size() != t.size())
-            return false;
+        cout << n1 << " " << n2;
 
-        while(start != s.size()){
-            if(s[start] != t[start]){
-                return false;
-            }
-            end--; start++;
+        if(n1 != n2) return false;
+
+        for(int i = 0; i < n1; i++){
+            if(s[i] != t[i]) return false;
         }
 
         return true;
