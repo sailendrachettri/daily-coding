@@ -3,22 +3,21 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size() / 2;
 
-        int count = 0;
+        if(nums.size() == 1) return nums[0];
 
-        // sort(nums.begin(), nums.end());
+        int count = 1;
 
-        for(int i = 0; i < nums.size(); i++){
-            for(int j = 0; j < nums.size(); j++){
-                if(nums[i] == nums[j]){
-                    count += 1;
-                }
+        sort(nums.begin(), nums.end());
 
-                if(count > n){
-                    return nums[i];
-                }
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i] == nums[i-1]){
+                count += 1;
+            } else{
+                count = 1;
             }
-            count = 0;
-        }
+
+            if(count > n) return nums[i];            
+        }      
 
         return count;
         
