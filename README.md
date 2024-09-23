@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sailendrachettri/daily-coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
