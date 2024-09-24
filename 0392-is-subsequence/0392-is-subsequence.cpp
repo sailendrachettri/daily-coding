@@ -1,14 +1,26 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int n = s.length(), m = t.length();
-        int j = 0;
+        int sizeOfS = s.size();
+        int sizeOfT = t.size();
 
-        for(int i = 0; i < m && j < n; i++){
-            if(s[j] == t[i])
-                j++;
+        if(sizeOfS > sizeOfT) return false;
+
+        int ch = s[0];
+        int ch_i = 0;
+
+        int i = 0;
+
+        while(i < sizeOfT){
+            if(ch == t[i]){
+                ch_i += 1;
+                ch = s[ch_i];
+            }
+            i++;
         }
 
-        return (j == n);
+        cout << ch_i << " " << sizeOfS;
+
+        return ch_i == sizeOfS;
     }
 };
