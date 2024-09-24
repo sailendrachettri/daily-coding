@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sailendrachettri/daily-coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sailendrachettri/daily-coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
