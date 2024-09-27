@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sailendrachettri/daily-coding/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
