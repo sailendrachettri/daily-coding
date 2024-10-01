@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
