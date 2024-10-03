@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sailendrachettri/daily-coding/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 | [0965-unique-email-addresses](https://github.com/sailendrachettri/daily-coding/tree/master/0965-unique-email-addresses) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
