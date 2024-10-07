@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sailendrachettri/daily-coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0965-unique-email-addresses](https://github.com/sailendrachettri/daily-coding/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sailendrachettri/daily-coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
@@ -112,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
