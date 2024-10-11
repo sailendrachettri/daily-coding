@@ -145,4 +145,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
