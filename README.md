@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sailendrachettri/daily-coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sailendrachettri/daily-coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
