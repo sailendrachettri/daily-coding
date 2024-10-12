@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sailendrachettri/daily-coding/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sailendrachettri/daily-coding/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sailendrachettri/daily-coding/tree/master/0344-reverse-string) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sailendrachettri/daily-coding/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sailendrachettri/daily-coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
