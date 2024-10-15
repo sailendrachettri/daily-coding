@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sailendrachettri/daily-coding/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
