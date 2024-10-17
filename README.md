@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sailendrachettri/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Heap (Priority Queue)
