@@ -1,21 +1,26 @@
 class MyHashMap {
 public:
-    int data[1000001];
+
+    int a[1000001];
 
     MyHashMap() {
-        fill(data, data + 1000000, -1);
+        for(int i = 0; i < 1000001; i++){
+            a[i] = -1;
+        }
     }
     
     void put(int key, int value) {
-        data[key] = value;
+        a[key] = value;
     }
     
     int get(int key) {
-        return data[key];
+        if(a[key] == -1) return -1;
+
+        return a[key];
     }
     
     void remove(int key) {
-        data[key] = -1;
+        if(a[key] != -1) a[key] = -1;
     }
 };
 
