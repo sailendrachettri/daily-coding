@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/sailendrachettri/daily-coding/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
