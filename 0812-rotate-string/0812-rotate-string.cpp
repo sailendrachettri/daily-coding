@@ -5,16 +5,14 @@ public:
         int g_size = g.size();
 
         if(s_size != g_size) return false;
-        string temp = s;
 
         for(int i = 0; i < s_size; i++){
-            temp += s[i];
-            cout << "temp: " << temp << endl;
-            temp.erase(temp.begin() + 0);
+            s += s[0];
+            cout << "1. s " << s << endl;
+            s.erase(s.begin() + 0);
+            cout << "2. s " << s << endl;
 
-            cout << "temp: " << temp << endl;
-
-            if(temp == g) return true;
+            if(s == g) return true;
         }
 
         return false;
