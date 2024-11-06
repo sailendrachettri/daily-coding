@@ -63,12 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sailendrachettri/daily-coding/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sailendrachettri/daily-coding/tree/master/0136-single-number) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sailendrachettri/daily-coding/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sailendrachettri/daily-coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
