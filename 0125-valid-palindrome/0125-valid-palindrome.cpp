@@ -1,28 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans = "";
-
-        if(s.size() <= 1) return true;
+        string pure_str = "";
+        string prev_str;
 
         for(int i = 0; i < s.size(); i++){
             s[i] = tolower(s[i]);
 
-            if(s[i] >= 'a' && s[i] <= 'z' || s[i] >= '0' && s[i] <= '9')
-                ans += s[i];
+            if((s[i] >= 'a' && s[i] <= 'z') || (s[i] >= '0' && s[i] <= '9'))
+                pure_str += s[i];
         }
 
-        int start = 0;
-        int end = ans.size() - 1;
+        prev_str = pure_str;
+        reverse(pure_str.begin(), pure_str.end());
 
-        while(start <= end){
-            cout << ans[start] << "=" << ans[end] << endl;
-            if(ans[start++] != ans[end--]) return false;
-        }
-
-        cout <<"ans: " << ans;
-
-        return true;
-
+        return prev_str == pure_str;
     }
 };
