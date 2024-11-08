@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sailendrachettri/daily-coding/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sailendrachettri/daily-coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
