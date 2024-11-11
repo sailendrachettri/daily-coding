@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sailendrachettri/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sailendrachettri/daily-coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sailendrachettri/daily-coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sailendrachettri/daily-coding/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
