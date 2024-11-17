@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/sailendrachettri/daily-coding/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/sailendrachettri/daily-coding/tree/master/0965-unique-email-addresses) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/sailendrachettri/daily-coding/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -419,4 +424,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
