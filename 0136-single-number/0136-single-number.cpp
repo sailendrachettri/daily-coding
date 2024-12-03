@@ -1,12 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-       int ans = 0;
+        unordered_map<int, int> freq;
 
-       for(int val : nums){
-        ans = ans ^ val;
-       }
+        for(int i = 0; i < nums.size(); i++){
+            freq[nums[i]]++;
+        }
 
-       return ans;
+        for(auto itr : freq){
+            cout << itr.first << " " << itr.second << endl;
+            if(itr.second == 1) return itr.first;
+        }
+
+        return -1;
     }
 };
