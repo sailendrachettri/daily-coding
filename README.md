@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sailendrachettri/daily-coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sailendrachettri/daily-coding/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/sailendrachettri/daily-coding/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sailendrachettri/daily-coding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
