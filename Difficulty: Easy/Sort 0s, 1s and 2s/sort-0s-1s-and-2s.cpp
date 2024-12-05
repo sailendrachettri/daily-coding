@@ -7,27 +7,31 @@ using namespace std;
 class Solution {
   public:
     void sort012(vector<int>& arr) {
-        int zeros = 0, ones = 0, twos = 0;
+        int ct_0 = 0;
+        int ct_1 = 0;
+        int ct_2 = 0;
         
         for(int i = 0; i < arr.size(); i++){
             if(arr[i] == 0)
-                zeros++;
+                ct_0++;
             else if(arr[i] == 1)
-                ones++;
-            else twos++;
+                ct_1++;
+            else 
+                ct_2++;
         }
         
         arr.clear();
         
-        for(int i = 0; i < zeros; i++){
+        for(int i = 1; i <= ct_0; i++){
             arr.push_back(0);
         }
-        for(int i = 0; i < ones; i++){
+        for(int i = 1; i <= ct_1; i++){
             arr.push_back(1);
         }
-        for(int i = 0; i < twos; i++){
+        for(int i = 1; i <= ct_2; i++){
             arr.push_back(2);
         }
+        
     }
 };
 
