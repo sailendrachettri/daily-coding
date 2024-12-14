@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -583,5 +587,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2868-continuous-subarrays) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
