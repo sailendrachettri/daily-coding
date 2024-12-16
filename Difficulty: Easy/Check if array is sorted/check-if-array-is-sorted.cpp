@@ -9,12 +9,9 @@ using namespace std;
 class Solution {
   public:
     bool arraySortedOrNot(vector<int>& arr) {
-        if(arr.size() == 1) return true;
-        
-        for(int i = 0; i < arr.size()-1; i++){
-            if(arr[i+1] >= arr[i])
-                continue;
-            else return false;
+        for(int i = 1; i < arr.size(); i++){
+            if(arr[i-1] > arr[i])
+                return false;
         }
         
         return true;
