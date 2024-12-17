@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sailendrachettri/daily-coding/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sailendrachettri/daily-coding/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sailendrachettri/daily-coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sailendrachettri/daily-coding/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
