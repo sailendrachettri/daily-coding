@@ -19,10 +19,10 @@ public:
             }
             cout << "dis " << dis << endl;
 
-            ans.push_back(prices[i]-dis);
+            prices[i] = prices[i]-dis;
             dis = 0;
         }
 
-        return ans;
+        return prices;
     }
 };
