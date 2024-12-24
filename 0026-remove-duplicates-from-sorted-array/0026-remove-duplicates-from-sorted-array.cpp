@@ -1,15 +1,19 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int k = 1;
+        set<int> uq;
 
-        for(int i = 1; i < nums.size(); i++){
-            if(nums[i] != nums[i-1]){
-                nums[k] = nums[i];
-                k += 1;
-            }
+        for(const int &val : nums){
+            uq.insert(val);
         }
 
-        return k;
+        nums.clear();
+
+        for(const int & val : uq){
+            nums.push_back(val);
+        }
+
+        return uq.size();
     }
+
 };
