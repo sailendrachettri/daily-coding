@@ -1,10 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str = to_string(x);
-        string str_copy = str;
-        reverse(str.begin(), str.end());
+        int x_copy = x;
+        long long rev = 0;
 
-        return str_copy == str;
+        if(x < 0) return false;
+
+        while(x_copy){
+            rev = rev * 10 + x_copy%10;
+            x_copy /= 10;
+        }
+
+        cout << rev;
+
+        return rev == x;
     }
 };
