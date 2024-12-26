@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sailendrachettri/daily-coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sailendrachettri/daily-coding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailendrachettri/daily-coding/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/sailendrachettri/daily-coding/tree/master/2554-minimum-total-distance-traveled) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
