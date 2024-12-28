@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/sailendrachettri/daily-coding/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0815-champagne-tower](https://github.com/sailendrachettri/daily-coding/tree/master/0815-champagne-tower) |
 | [1063-best-sightseeing-pair](https://github.com/sailendrachettri/daily-coding/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
