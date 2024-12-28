@@ -8,12 +8,12 @@ public:
         while(n--){
             char ch = strs[0][idx];
 
-            for(auto st : strs){
+            for(const string &st : strs){
                 if(st[idx] != ch)
                     return ans;
             }
-            idx++;
             ans += ch;
+            idx++;
         }
 
         return ans;
