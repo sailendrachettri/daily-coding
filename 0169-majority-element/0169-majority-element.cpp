@@ -1,21 +1,25 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> freq;
         int maxi = INT_MIN;
-        int ans = -1;
+        int ans = INT_MIN;
+        unordered_map<int, int> freq;
 
         for(int i = 0; i < nums.size(); i++){
             freq[nums[i]]++;
         }
 
-        for(auto &it : freq){
-            if(maxi < it.second){
-                maxi = it.second;
+
+        for(auto it : freq){
+            cout << it.first << " -> " << it.second << endl;
+            if(it.second > maxi){
                 ans = it.first;
+                maxi = it.second;
             }
         }
 
         return ans;
+
+        
     }
 };
