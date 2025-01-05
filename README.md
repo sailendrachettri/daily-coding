@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/sailendrachettri/daily-coding/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sailendrachettri/daily-coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
