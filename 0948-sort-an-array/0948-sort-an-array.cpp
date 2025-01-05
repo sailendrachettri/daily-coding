@@ -1,8 +1,8 @@
 class Solution {
 public:
-    vector<int> sortArray(vector<int>& arr) {
-        sort(arr.begin(), arr.end());
+    vector<int> sortArray(vector<int>& nums) {
+        stable_sort(nums.begin(), nums.end());
 
-        return arr;
+        return nums;
     }
 };
