@@ -1,6 +1,16 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        map<int, int> freq;
+
+        for(const int &val : nums)
+            freq[val]++;
+
+        nums.clear();
+
+        for(auto it : freq){
+            for(int i = 0; i < it.second; i++)
+                nums.push_back(it.first);
+        }
     }
 };
