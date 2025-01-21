@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/sailendrachettri/daily-coding/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/sailendrachettri/daily-coding/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sailendrachettri/daily-coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sailendrachettri/daily-coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3427-special-array-ii) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/sailendrachettri/daily-coding/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/sailendrachettri/daily-coding/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sailendrachettri/daily-coding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sailendrachettri/daily-coding/tree/master/2685-first-completely-painted-row-or-column) |
