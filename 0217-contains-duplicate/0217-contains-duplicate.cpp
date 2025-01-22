@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int, int> freq;
+       map<int, int>  mp;
 
-        for(int i = 0; i < nums.size(); i++){
-            freq[nums[i]]++;
-        }
+        for(int val : nums)
+            mp[val]++;
 
-        for(auto it : freq)
-            if(it.second > 1) return true;
+        for(auto it : mp)
+            if(it.second >= 2) return true;
 
         return false;
+
     }
 };
