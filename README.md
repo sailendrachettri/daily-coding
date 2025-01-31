@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
+| [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/sailendrachettri/daily-coding/tree/master/0932-monotonic-array) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sailendrachettri/daily-coding/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/sailendrachettri/daily-coding/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/sailendrachettri/daily-coding/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sailendrachettri/daily-coding/tree/master/1558-course-schedule-iv) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sailendrachettri/daily-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/sailendrachettri/daily-coding/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sailendrachettri/daily-coding/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sailendrachettri/daily-coding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailendrachettri/daily-coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
@@ -637,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/sailendrachettri/daily-coding/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sailendrachettri/daily-coding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -743,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sailendrachettri/daily-coding/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/sailendrachettri/daily-coding/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sailendrachettri/daily-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
