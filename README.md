@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sailendrachettri/daily-coding/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sailendrachettri/daily-coding/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sailendrachettri/daily-coding/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sailendrachettri/daily-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sailendrachettri/daily-coding/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
