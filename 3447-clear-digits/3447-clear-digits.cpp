@@ -1,12 +1,15 @@
 class Solution {
 public:
-    static string clearDigits(string& s) {
-        int n=s.size(), j=0;
-        for(int i=0; i<n; i++){
-            if (isdigit(s[i]) && j>0) j--;
-            else  s[j++]=s[i]; 
+    string clearDigits(string s) {
+        string ans = "";
+
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] >= '0' && s[i] <= '9'){
+                ans.pop_back();
+            } else
+                ans += s[i];
         }
-        s.resize(j);
-        return s;
+
+        return ans;
     }
 };
