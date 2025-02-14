@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/sailendrachettri/daily-coding/tree/master/1547-destination-city) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sailendrachettri/daily-coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -603,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [2434-design-a-number-container-system](https://github.com/sailendrachettri/daily-coding/tree/master/2434-design-a-number-container-system) |
 ## Tree
@@ -810,4 +814,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/sailendrachettri/daily-coding/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sailendrachettri/daily-coding/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sailendrachettri/daily-coding/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
