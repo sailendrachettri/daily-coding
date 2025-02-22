@@ -601,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -723,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 ## Hash Function
