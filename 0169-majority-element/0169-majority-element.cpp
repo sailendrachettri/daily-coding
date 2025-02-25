@@ -1,7 +1,22 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        return nums[nums.size()/2];
+        map<int, int> mp;
+        int maxi = INT_MIN;
+        int val;
+
+        for(int val : nums)
+            mp[val]++;
+
+        for(auto it : mp){
+            if(maxi < it.second){
+                maxi = it.second;
+                val = it.first;
+            }
+        }
+
+        return val;
+        
+
     }
 };
