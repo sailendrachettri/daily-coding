@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sailendrachettri/daily-coding/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
