@@ -1,17 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        map<int, int> mp;
 
         for(int i = 0; i <= nums.size(); i++){
-            if(i >= nums.size()) return i;
-            
-            if(nums[i] != i) return i;
+            mp[i] = 0;
+        }
 
+        for(int num : nums){
+            mp[num]++;
+        }
+
+        for(auto it : mp){
+            if(it.second == 0) return it.first;
         }
 
         return -1;
-
-        
     }
 };
