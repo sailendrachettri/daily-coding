@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sailendrachettri/daily-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sailendrachettri/daily-coding/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
@@ -882,4 +884,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sailendrachettri/daily-coding/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
