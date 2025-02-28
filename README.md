@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/sailendrachettri/daily-coding/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/sailendrachettri/daily-coding/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sailendrachettri/daily-coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sailendrachettri/daily-coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/sailendrachettri/daily-coding/tree/master/2434-design-a-number-container-system) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sailendrachettri/daily-coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sailendrachettri/daily-coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2448-count-number-of-bad-pairs) |
