@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sailendrachettri/daily-coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sailendrachettri/daily-coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/sailendrachettri/daily-coding/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
@@ -822,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0908-middle-of-the-linked-list) |
