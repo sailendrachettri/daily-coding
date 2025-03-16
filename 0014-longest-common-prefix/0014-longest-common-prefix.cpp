@@ -1,24 +1,17 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        
-        int idx = 0;
         string ans = "";
 
+        int idx = 0;
         for(int i = 0; i < strs[0].size(); i++){
-            bool is_same = true;
 
             for(string st : strs){
-
-                if(st[idx] != strs[0][idx]){
-                    is_same = false;
+                if(strs[0][i] != st[idx])
                     return ans;
-                }
-
             }
-            if(is_same){
-                ans += strs[0][idx++];
-            }
+            cout << ans << endl;
+            ans += strs[0][idx++];
         }
 
         return ans;
