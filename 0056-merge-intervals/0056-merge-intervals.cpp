@@ -1,26 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end(), [](const vector<int> &a, const vector<int> &b){
-            return a[0] < b[0];
-        });
+        vector<int> starts;
+        vector<int> ends;
 
-        vector<vector<int>> merged;
-        vector<int> prev = intervals[0];
-
-        for(int i = 1; i < intervals.size(); i++){
-            vector<int> interval = intervals[i];
-
-            if(interval[0] <= prev[1])
-                prev[1] = max(prev[1], interval[1]);
-            
-            else{
-                merged.push_back(prev);
-                prev = interval;
+        for(int i = 0; i < intervals.size(); i++){
+            for(int j = 0; j < intervals[0].size()-1; j++){
+                starts.push_back(intervals[i][j]);
+                ends.push_back(intervals[i][j+1]);
             }
         }
 
-        merged.push_back(prev);
-        return merged;
+        sort(starts.begin(), starts.end());
+        sort(ends.begin(), ends.end());
+
+        for(int i = 0; i < starts.size()-1;){
+            if(starts[i+1] <= ends[i]){
+                starts.erase(starts.begin()+i+1);
+                ends.erase(ends.begin()+i);
+                if(i > 0)
+                    i--;
+            }else{
+                i++;
+            }
+        }
+
+        intervals.clear();
+
+        for(int i = 0; i < starts.size(); i++){
+            intervals.push_back({starts[i], ends[i]});
+        }
+
+        return intervals;
     }
 };
