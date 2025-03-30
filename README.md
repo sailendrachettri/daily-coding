@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sailendrachettri/daily-coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/sailendrachettri/daily-coding/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1502-construct-k-palindrome-strings) |
