@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/sailendrachettri/daily-coding/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0494-target-sum) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sailendrachettri/daily-coding/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/sailendrachettri/daily-coding/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0815-champagne-tower](https://github.com/sailendrachettri/daily-coding/tree/master/0815-champagne-tower) |
