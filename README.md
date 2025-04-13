@@ -753,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sailendrachettri/daily-coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sailendrachettri/daily-coding/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
