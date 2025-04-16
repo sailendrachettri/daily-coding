@@ -1,24 +1,23 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
-        int start = 0;
-        int end = word1.size() > word2.size() ? word2.size() - 1 : word1.size() - 1;
+        int idx = 0;
         string ans = "";
 
-        while(start <= end){
-            ans += word1[start];
-            ans += word2[start];
-            start++;
+        while(idx < word1.size() && idx < word2.size()){
+            ans.push_back(word1[idx]);
+            ans.push_back(word2[idx]);
+            idx++;
         }
 
-        int start_copy = start;
+        int idx2 = idx;
 
-        while(start < word1.size()){
-            ans += word1[start++];
+        while(idx < word1.size()){
+            ans.push_back(word1[idx++]);
         }
 
-        while(start_copy < word2.size()){
-            ans += word2[start_copy++];
+        while(idx2 < word2.size()){
+            ans.push_back(word2[idx2++]);
         }
 
         return ans;
