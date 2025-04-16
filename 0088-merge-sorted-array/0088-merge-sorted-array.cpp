@@ -11,12 +11,11 @@ public:
             ans.push_back(nums2[i]);
         }
 
-        sort(ans.begin(), ans.end());
+        sort(begin(ans), end(ans));
 
         nums1.clear();
 
-        for(int i = 0; i < ans.size(); i++){
-            nums1.push_back(ans[i]);
-        }
+        for(int val : ans)
+            nums1.push_back(val);
     }
 };
