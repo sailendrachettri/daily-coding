@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sailendrachettri/daily-coding/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/sailendrachettri/daily-coding/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/sailendrachettri/daily-coding/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sailendrachettri/daily-coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sailendrachettri/daily-coding/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sailendrachettri/daily-coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/sailendrachettri/daily-coding/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3427-special-array-ii) |
