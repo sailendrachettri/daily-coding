@@ -1,28 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<int> starts;
-        vector<int> ends;
+        vector<int> st;
+        vector<int> ed;
 
-        for(int i = 0; i < intervals.size(); i++){
-            for(int j = 0; j < intervals[0].size()-1; j++){
-                starts.push_back(intervals[i][j]);
-                ends.push_back(intervals[i][j+1]);
-            }
+        st.push_back(newInterval[0]);
+        ed.push_back(newInterval[1]);
+
+        for(auto it : intervals){
+            st.push_back(it[0]);
+            ed.push_back(it[1]);
         }
 
-        starts.push_back(newInterval[0]);
-        ends.push_back(newInterval[1]);
+        sort(begin(st), end(st));
+        sort(begin(ed), end(ed));
 
+        for(int val : st)
+            cout << val << " ";
+        cout << endl;
+        for(int val : ed)
+            cout << val << " ";
+        
+        intervals.clear();
 
-        sort(begin(starts), end(starts));
-        sort(begin(ends), end(ends));
-
-    
-        for(int i = 0; i < starts.size()-1;){
-            if(starts[i+1] <= ends[i]){
-                starts.erase(starts.begin()+(i+1));
-                ends.erase(ends.begin()+i);
+        for(int i = 0; i < st.size()-1;){
+            if(st[i+1] <= ed[i]){
+                st.erase(st.begin()+(i+1));
+                ed.erase(ed.begin()+i);
                 if(i > 0)
                     i--;
             }else{
@@ -30,23 +34,11 @@ public:
             }
         }
 
-        intervals.clear();
-
-        for(int val : starts){
-            cout << val << " ";
-        }
-
-        cout << endl;
-
-        for(int num : ends){
-            cout << num << " ";
-        }
-
-        for(int i = 0; i < starts.size(); i++){
-            intervals.push_back({starts[i], ends[i]});
+        for(int i = 0; i < st.size(); i++){
+            intervals.push_back({st[i], ed[i]});
         }
 
         return intervals;
-
+        
     }
 };
