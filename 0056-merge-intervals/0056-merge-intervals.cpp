@@ -1,34 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        vector<int> starts;
-        vector<int> ends;
+        vector<int> st;
+        vector<int> ed;
 
-        for(int i = 0; i < intervals.size(); i++){
-            for(int j = 0; j < intervals[0].size()-1; j++){
-                starts.push_back(intervals[i][j]);
-                ends.push_back(intervals[i][j+1]);
-            }
+        for(vector<int> vec : intervals){
+            st.push_back(vec[0]);
+            ed.push_back(vec[1]);
         }
 
-        sort(starts.begin(), starts.end());
-        sort(ends.begin(), ends.end());
+        sort(begin(st), end(st));
+        sort(begin(ed), end(ed));
 
-        for(int i = 0; i < starts.size()-1;){
-            if(starts[i+1] <= ends[i]){
-                starts.erase(starts.begin()+i+1);
-                ends.erase(ends.begin()+i);
-                if(i > 0)
-                    i--;
+        intervals.clear();
+
+        for(int i = 0; i < st.size()-1;){
+            if(st[i+1] <= ed[i]){
+                st.erase(st.begin()+(i+1));
+                ed.erase(ed.begin()+i);
+
+                if(i > 0) i--;
             }else{
                 i++;
             }
         }
 
-        intervals.clear();
-
-        for(int i = 0; i < starts.size(); i++){
-            intervals.push_back({starts[i], ends[i]});
+        for(int i = 0; i < st.size(); i++){
+            intervals.push_back({st[i], ed[i]});
         }
 
         return intervals;
