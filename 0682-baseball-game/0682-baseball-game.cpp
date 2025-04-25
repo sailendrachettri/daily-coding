@@ -1,39 +1,32 @@
-
-
 class Solution {
-private:
-bool is_number(string st){
-    try{
-        int val = stoi(st);
-        return true;
-        throw (st);
-    } catch (...){
-        return false;
-    }
-}
 public:
-    int calPoints(vector<string>& op) {
+    bool isnumber(string s){
+        try{
+            int val = stoi(s);
+            return true;
+            throw s;
+        }catch(...){
+            return false;
+        }
+    }
+    int calPoints(vector<string>& operations) {
         stack<int> st;
         int ans = 0;
 
-        for(int i = 0; i < op.size(); i++){
-            if(is_number(op[i])){
-                st.push(stoi(op[i]));
-            }
-            else if(op[i] == "+"){
-                int top = st.top();
+        for(string s : operations){
+            if(isnumber(s)){
+                st.push(stoi(s));
+            }else if(s == "+"){
+                int val = st.top();
                 st.pop();
-                int new_score = top + st.top();
-                st.push(top);
-                st.push(new_score);
-            } else if(op[i] == "D"){
+                int tot = st.top()+val;
+                st.push(val);
+                st.push(tot);
+            }else if(s == "D"){
                 st.push(st.top()*2);
-            } else if(op[i] == "C"){
+            }else{
                 st.pop();
             }
-
-            if(!st.empty())
-                cout << op[i] << " " << st.top() << endl;
         }
 
         while(!st.empty()){
