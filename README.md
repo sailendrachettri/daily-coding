@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sailendrachettri/daily-coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sailendrachettri/daily-coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sailendrachettri/daily-coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3778-transform-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/sailendrachettri/daily-coding/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sailendrachettri/daily-coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3778-transform-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sailendrachettri/daily-coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sailendrachettri/daily-coding/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
