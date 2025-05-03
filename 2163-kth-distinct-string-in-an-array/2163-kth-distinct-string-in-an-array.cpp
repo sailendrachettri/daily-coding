@@ -13,17 +13,9 @@ public:
                 }
             }
 
-            cout << (present ? 'T' : 'F') << " " << arr[i] << endl;
-
             if(!present)
                 ans.push_back(arr[i]);
         }
-
-        for(string s : ans)
-            cout << s << " ";
-        cout << endl;
-
-        cout << ans.size() << endl;
 
         if(ans.size() < k)
             return "";
