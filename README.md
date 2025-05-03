@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/sailendrachettri/daily-coding/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sailendrachettri/daily-coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sailendrachettri/daily-coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sailendrachettri/daily-coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sailendrachettri/daily-coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sailendrachettri/daily-coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sailendrachettri/daily-coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/2292-counting-words-with-a-given-prefix) |
