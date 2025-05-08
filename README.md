@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sailendrachettri/daily-coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sailendrachettri/daily-coding/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/sailendrachettri/daily-coding/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/sailendrachettri/daily-coding/tree/master/2262-solving-questions-with-brainpower) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sailendrachettri/daily-coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/sailendrachettri/daily-coding/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sailendrachettri/daily-coding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sailendrachettri/daily-coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sailendrachettri/daily-coding/tree/master/2271-rearrange-array-elements-by-sign) |
