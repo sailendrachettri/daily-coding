@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sailendrachettri/daily-coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/sailendrachettri/daily-coding/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sailendrachettri/daily-coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailendrachettri/daily-coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/sailendrachettri/daily-coding/tree/master/1364-tuple-with-same-product) |
