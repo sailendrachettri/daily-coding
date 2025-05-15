@@ -3,11 +3,11 @@ public:
     string clearDigits(string s) {
         string ans = "";
 
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] >= '0' && s[i] <= '9'){
+        for(char ch : s){
+            if(ch >= '0' && ch <= '9')
                 ans.pop_back();
-            } else
-                ans += s[i];
+            else
+                ans.push_back(ch);
         }
 
         return ans;
