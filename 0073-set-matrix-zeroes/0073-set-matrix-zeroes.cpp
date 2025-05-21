@@ -1,48 +1,23 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size(), n = matrix[0].size();
-        bool firstRowZero = false, firstColZero = false;
-
-        // Check if the first row and first column need to be zero
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) firstColZero = true;
-        }
-        for (int j = 0; j < n; j++) {
-            if (matrix[0][j] == 0) firstRowZero = true;
-        }
-
-        // Mark zeros in the first row and column
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        bitset<200> col0=0, row0=0;
+        const int n=matrix.size(), m=matrix[0].size();
+        for(int i=0; i<n; i++)
+            for(int j=0; j<m; j++){
+                if (matrix[i][j]==0){
+                    row0[i]=1;
+                    col0[j]=1;
                 }
             }
+        for(int i=0; i<n; i++){
+            if (row0[i])
+                fill(matrix[i].begin(), matrix[i].end(), 0);
         }
-
-        // Set matrix cells to zero based on markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-
-        // Zero out the first row if needed
-        if (firstRowZero) {
-            for (int j = 0; j < n; j++) {
-                matrix[0][j] = 0;
-            }
-        }
-
-        // Zero out the first column if needed
-        if (firstColZero) {
-            for (int i = 0; i < m; i++) {
-                matrix[i][0] = 0;
-            }
+        for(int j=0; j<m; j++){
+            if (!col0[j]) continue;
+            for(int i=0; i<n; i++)
+                matrix[i][j]=0;
         }
     }
 };
