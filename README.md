@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sailendrachettri/daily-coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/sailendrachettri/daily-coding/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1137-height-checker](https://github.com/sailendrachettri/daily-coding/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sailendrachettri/daily-coding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sailendrachettri/daily-coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/sailendrachettri/daily-coding/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sailendrachettri/daily-coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1124,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/sailendrachettri/daily-coding/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sailendrachettri/daily-coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
