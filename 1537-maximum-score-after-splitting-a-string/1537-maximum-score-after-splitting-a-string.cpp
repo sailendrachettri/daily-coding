@@ -1,26 +1,24 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int n = s.size();
-        int ans = INT_MIN;
-        int ct0 = 0, ct1 = 0;
+        int ans = 0;
+        int left_sum = 0;
+        int right_sum = 0;
 
-        for(int i = 0; i < n-1; i++){
-            ct0 = 0;
-            ct1 = 0;
+        for(int i = 0; i < s.size()-1; i++){
             for(int j = 0; j <= i; j++){
                 if(s[j] == '0')
-                    ct0++;
+                    left_sum++;
             }
 
-            for(int j = i+1; j < n; j++){
+            for(int j = i+1; j < s.size(); j++){
                 if(s[j] == '1')
-                    ct1++;
+                    right_sum++;
             }
 
-            cout << ct0 << " " << ct1 << endl;
-
-            ans = max(ans, (ct0+ct1));
+            ans = max(ans, (left_sum+right_sum));
+            left_sum = 0;
+            right_sum = 0;
         }
 
         return ans;
