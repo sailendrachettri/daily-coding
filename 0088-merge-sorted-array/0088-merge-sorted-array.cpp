@@ -14,8 +14,8 @@ public:
         sort(begin(ans), end(ans));
 
         nums1.clear();
-
-        for(int val : ans)
+        for(int val : ans){
             nums1.push_back(val);
+        }
     }
 };
