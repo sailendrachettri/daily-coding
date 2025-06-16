@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/sailendrachettri/daily-coding/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2163-kth-distinct-string-in-an-array) |
