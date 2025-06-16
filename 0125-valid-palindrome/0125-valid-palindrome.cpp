@@ -1,17 +1,27 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string str = "";
+        int start = 0;
+        int end = s.size() - 1;
 
-        for(char ch : s){
-            if(isalnum(ch)){
-                str += tolower(ch);
+        while(start <= end){
+            while(start < s.size()-1 && !isalnum(s[start]))
+                start++;
+            while(end > 0 && !isalnum(s[end]))
+                end--;
+            
+            cout << char(tolower(s[start])) << " " << char(tolower(s[end])) << endl;
+            if(start > end)
+                return true;
+
+            if(char(tolower(s[start])) != char(tolower(s[end]))){
+
+                return false;
             }
+
+            start++; end--;
         }
 
-        string rev = str;
-        reverse(begin(rev), end(rev));
-
-        return str == rev;
+        return true;
     }
 };
