@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sailendrachettri/daily-coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sailendrachettri/daily-coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sailendrachettri/daily-coding/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sailendrachettri/daily-coding/tree/master/0066-plus-one) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sailendrachettri/daily-coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0119-pascals-triangle-ii) |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sailendrachettri/daily-coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sailendrachettri/daily-coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
