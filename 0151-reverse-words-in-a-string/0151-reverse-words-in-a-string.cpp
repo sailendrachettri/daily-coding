@@ -1,50 +1,41 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string pure = "";
-        string temp = "";
-        string ans = "";
-
         int start = 0;
         int end = s.size()-1;
+        vector<string> str;
+        string ans;
 
-        while(s[start] == ' ')
-            start++;
-        while(s[end] == ' ')
-            end--;
+        if(s.size() == 1)
+            return s;
 
-        for(int i = start; i <= end;){
-            if(s[i] != ' ')
-                pure += s[i];
+        while(start < end){
+            while(s[start] == ' ')
+                start++;
+            string temp = "";
 
-            else{
-                pure += ' ';
-                while(s[i] == ' ')
-                    i++;
-                continue;
+            while(start <= end && s[start] != ' '){
+                temp += s[start++];
             }
-            i++;
+            reverse(temp.begin(), temp.end());
+            cout << temp << " ";
+            str.push_back(temp);
         }
 
+        reverse(str.begin(), str.end());
 
-        reverse(pure.begin(), pure.end());
-        cout <<"pure reversed: " << pure << endl;
+        for(string &st : str){
+            reverse(st.begin(), st.end());
+            ans += st;
+            ans += " ";
+        }
+        ans.pop_back();
 
-
-        for(int i = 0; i <= pure.size(); i++){
-            temp = "";
-
-            while(pure[i] != ' ' && i < pure.size())
-                temp += pure[i++];
-            
-            reverse(temp.begin(), temp.end());
-
-            cout << "temp: " << temp << endl;
-
-            ans += temp;
-
-            if(i < pure.size())
-                ans += ' ';
+        if(ans[0] == ' '){
+            for(int i = 0; i < ans.size()-1; i++){
+                ans[i] = ans[i+1];
+            }
+            ans.pop_back();
         }
 
         return ans;
