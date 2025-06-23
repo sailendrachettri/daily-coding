@@ -17,7 +17,7 @@ public:
             while(start <= end && s[start] != ' '){
                 temp += s[start++];
             }
-            reverse(temp.begin(), temp.end());
+            
             cout << temp << " ";
             str.push_back(temp);
         }
@@ -25,7 +25,7 @@ public:
         reverse(str.begin(), str.end());
 
         for(string &st : str){
-            reverse(st.begin(), st.end());
+            
             ans += st;
             ans += " ";
         }
