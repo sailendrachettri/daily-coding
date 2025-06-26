@@ -1,28 +1,28 @@
 class Solution {
 public:
     bool canConstruct(string r, string m) {
-        if(m.size() < r.size()) return false;
-
-        map<char, int> r_mp;
-        map<char, int> m_mp;
+        if(m.size() < r.size())
+            return false;
+        
+        map<char, int> freq_r;
+        map<char, int> freq_m;
 
         for(char ch : r)
-            r_mp[ch]++;
-        for(char ch : m)
-            m_mp[ch]++;
-
-        auto it = r_mp.begin();
+            freq_r[ch]++;
         
-        for(int i = 0; i < r_mp.size(); i++){
-            auto res = m_mp.find(it->first);
+        for(char ch : m)
+            freq_m[ch]++;
+        
+        auto it_r = freq_r.begin();
 
-            if(it != m_mp.end()){
-                if(res->second < it->second) return false;
+        for(int i = 0; i < freq_r.size(); i++){
+           auto res = freq_m.find(it_r->first);
 
-                cout << res->first << res->second << endl;
-            }
-
-            it++;           
+           if(it_r != freq_m.end()){
+                if(res->second < it_r->second)
+                    return false;
+           }
+           it_r++;
         }
 
         return true;
