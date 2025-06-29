@@ -24,9 +24,7 @@ public:
         for(int start = 0; start < s.size(); start++){
             for(int end = start; end < s.size(); end++){
 
-                for(int i = start; i <= end; i++){
-                    str += s[i];
-                }
+                str = s.substr(start, end-start+1);
 
                 bool ans = check(str, k);
                 cout << str  << " " << ans << endl;
