@@ -5,15 +5,16 @@ public:
 
         for(int i = 0; i < nums.size(); i++){
             auto it = mp.find(nums[i]);
+            
 
             if(it != mp.end()){
-                if(it->first == nums[i] && i != it->second
-                    && abs(i - it->second ) <= k
-                ){
+                if(it->second != i && nums[i] == it->first && abs(i - it->second) <= k) 
+                {
                     return true;
                 }
             }
-                mp[nums[i]] = i;
+            mp[nums[i]] = i;
+                
             
         }
 
