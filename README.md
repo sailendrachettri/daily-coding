@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sailendrachettri/daily-coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/sailendrachettri/daily-coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sailendrachettri/daily-coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sailendrachettri/daily-coding/tree/master/0217-contains-duplicate) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
@@ -1107,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
@@ -1146,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2280-count-good-triplets-in-an-array) |
