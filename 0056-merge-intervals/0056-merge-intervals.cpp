@@ -1,33 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        vector<int> st;
-        vector<int> ed;
+        vector<int> start;
+        vector<int> ends;
 
-        for(vector<int> vec : intervals){
-            st.push_back(vec[0]);
-            ed.push_back(vec[1]);
-        }
-
-        sort(begin(st), end(st));
-        sort(begin(ed), end(ed));
-
-        intervals.clear();
-
-        for(int i = 0; i < st.size()-1;){
-            if(st[i+1] <= ed[i]){
-                st.erase(st.begin()+(i+1));
-                ed.erase(ed.begin()+i);
-
-                if(i > 0) i--;
-            }else{
-                i++;
+        for(int i = 0; i < intervals.size(); i++){
+            for(int j = 0; j < intervals[0].size()-1; j++){
+                start.push_back(intervals[i][j]);
+                ends.push_back(intervals[i][j+1]);
             }
         }
 
-        for(int i = 0; i < st.size(); i++){
-            intervals.push_back({st[i], ed[i]});
-        }
+        intervals.clear();
+
+        sort(begin(start), end(start));
+        sort(ends.begin(), ends.end());
+
+       for(int i = 0; i < start.size()-1;){
+            if(start[i+1] <= ends[i]){
+                start.erase(start.begin()+i+1);
+                ends.erase(ends.begin()+i);
+
+                if(i > 0){
+                    i--;
+                }
+            }else{
+                    i++;
+                }
+       }
+
+       for(int i = 0; i < start.size(); i++){
+            intervals.push_back({start[i], ends[i]});
+       }
 
         return intervals;
     }
