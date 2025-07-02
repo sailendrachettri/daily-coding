@@ -3,17 +3,12 @@ public:
     const long long mod = 10000000+7;
 
     vector<string> summaryRanges(vector<int>& nums) {
-        string temp = "";
         vector<string> ans;
 
-        if(nums.size() == 1){
-            temp = to_string(nums[0]);
-            return {temp};
-        }
+        if(nums.size() == 1)
+            return {to_string(nums[0])};
 
-        if(nums.size() == 0){
-            return {};
-        }
+        if(nums.size() == 0) return {};
             
 
         for(long long i = 0, j = 0; i < nums.size();){
@@ -21,19 +16,15 @@ public:
                 j++;
             }
 
+            if(nums[i] == nums[j])                
+                ans.push_back(to_string(nums[j]));
 
-            if(nums[i] == nums[j]){
-                temp += to_string(nums[j]);
-                ans.push_back(temp);
-               
-            }else{
-                temp += to_string(nums[i]);
-                temp += "->";
-                temp += to_string(nums[j]);
-                ans.push_back(temp);
+            else{
+                ans.push_back(
+                    to_string(nums[i]) + "->" + to_string(nums[j])
+                );
             }
 
-            temp = "";
             j++;
             i = j;
             
