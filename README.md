@@ -1114,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sailendrachettri/daily-coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0203-remove-linked-list-elements) |
