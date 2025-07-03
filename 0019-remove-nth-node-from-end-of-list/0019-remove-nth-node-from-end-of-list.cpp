@@ -12,16 +12,15 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         vector<int> arr;
-        ListNode* temp = head;
-        ListNode* dummy = new ListNode(0);
-
+        ListNode * temp  = head;
+        ListNode * dummy = new ListNode(0);
 
         while(temp != NULL){
             arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        arr.erase(arr.begin()+ arr.size()-n);
+        arr.erase(arr.begin()+arr.size()-n);
 
         reverse(arr.begin(), arr.end());
 
@@ -29,10 +28,11 @@ public:
 
         while(arr.size() > 0){
             temp->next = new ListNode(arr.back());
-            temp = temp->next;
             arr.pop_back();
+            temp = temp->next;
         }
 
         return dummy->next;
+        
     }
 };
