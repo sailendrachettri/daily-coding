@@ -1,24 +1,40 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
+        map<int, int> mp;
+        int count = 1;
+        int ans = INT_MIN;
 
-        if(n == 0) return 0;
-        sort(nums.begin(), nums.end());
+        if(nums.size() == 0 || nums.size() == 1)
+            return nums.size();
 
-        int cnt = 1;
-        int maxi = 0;
-
-        for(int i = 1; i < n; i++){
-            if(nums[i] != nums[i-1]){
-                if(nums[i] == nums[i-1]+1) cnt++;
-                else{
-                    maxi = max(maxi, cnt);
-                    cnt = 1;
-                }
-            } 
+        for(int val : nums){
+            mp[val]++;
         }
 
-        return max(maxi, cnt);
+        auto it = mp.begin();
+        int val = it->first;
+        it++;
+
+        for(auto it : mp)
+            cout << it.first << " ";
+        cout << endl;
+
+        for(int i = 1; i < mp.size(); i++){
+
+            cout << it->first << " ";
+            if(abs(it->first-val) != 1){
+                
+                ans = max(count, ans);
+                count = 1;
+            }
+            else
+                count++;
+            
+            val = it->first;
+            it++;
+        }
+
+        return count > ans ? count : ans;
     }
 };
