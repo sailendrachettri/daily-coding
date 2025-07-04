@@ -16,13 +16,7 @@ public:
         int val = it->first;
         it++;
 
-        for(auto it : mp)
-            cout << it.first << " ";
-        cout << endl;
-
         for(int i = 1; i < mp.size(); i++){
-
-            cout << it->first << " ";
             if(abs(it->first-val) != 1){
                 
                 ans = max(count, ans);
@@ -30,7 +24,7 @@ public:
             }
             else
                 count++;
-            
+
             val = it->first;
             it++;
         }
