@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sailendrachettri/daily-coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/sailendrachettri/daily-coding/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sailendrachettri/daily-coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailendrachettri/daily-coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/sailendrachettri/daily-coding/tree/master/1364-tuple-with-same-product) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sailendrachettri/daily-coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/sailendrachettri/daily-coding/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sailendrachettri/daily-coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/1392-find-the-difference-of-two-arrays) |
