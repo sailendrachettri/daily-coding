@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sailendrachettri/daily-coding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sailendrachettri/daily-coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-sum-of-unique-elements](https://github.com/sailendrachettri/daily-coding/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sailendrachettri/daily-coding/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sailendrachettri/daily-coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/sailendrachettri/daily-coding/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sailendrachettri/daily-coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/sailendrachettri/daily-coding/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sailendrachettri/daily-coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sailendrachettri/daily-coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
