@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sailendrachettri/daily-coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sailendrachettri/daily-coding/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
@@ -936,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sailendrachettri/daily-coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sailendrachettri/daily-coding/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/sailendrachettri/daily-coding/tree/master/0368-largest-divisible-subset) |
@@ -1200,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sailendrachettri/daily-coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
