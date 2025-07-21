@@ -1,21 +1,15 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        string ans  = "";
-        int size = s.size();
+        string ans = "";
 
-        for(int i = 0; i < size-2; i++){
-            if(s[i] == s[i+1] && s[i] == s[i+2]){
-               s[i] = '-';
-            }            
-        }
-
-        for(int i = 0; i < size; i++){
-            if(s[i] != '-')
+        for(int i = 0; i < s.size(); i++){
+            if(ans.size() >= 2 && ans.back() == s[i] && ans[ans.size()-2] == s[i])
+                continue;
+            else
                 ans += s[i];
         }
 
-        cout << ans;
         return ans;
     }
 };
