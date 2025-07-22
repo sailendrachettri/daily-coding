@@ -7,7 +7,7 @@ public:
             int count = 0;
 
             for(int j = 0; j < nums.size(); j++){
-                if(nums[i] > nums[j])
+                if(i != j && nums[j] < nums[i])
                     count++;
             }
 
