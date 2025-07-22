@@ -1,30 +1,33 @@
 class Solution {
-    
-    bool isVowel(char &ch)
-    {
-        return (ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch == 'u' or ch == 'A' or ch == 'E' or ch == 'I' or ch == 'O' or ch == 'U');
-    }
-    
 public:
+
+    bool is_vowel(char ch){
+        ch = tolower(ch);
+
+        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            return true;
+        
+        return false;
+    }
+
     string reverseVowels(string s) {
-        
-        vector<char> vow;
-        for(auto i : s)
-        {
-            if(isVowel(i) )
-                vow.push_back(i);
+        int start = 0;
+        int end = s.size()-1;
+
+        while(start < end){
+            while( start < end && !(is_vowel(s[start])))
+                start++;
+            while(start < end && !(is_vowel(s[end])))
+                end--;
+
+            if(start >= end)
+                return s;
+
+            cout << s[start] << " " << s[end] << endl;
+
+            swap(s[start++], s[end--]);
         }
-        
-        reverse(vow.begin(), vow.end() );
-        
-        int k = 0;
-        
-        for(int i = 0; i < s.size(); i++)
-        {
-            if(isVowel(s[i]) )
-                s[i] = vow[k++];
-        }
-        
+
         return s;
     }
 };
