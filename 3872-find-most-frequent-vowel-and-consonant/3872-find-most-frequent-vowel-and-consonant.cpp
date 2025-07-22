@@ -1,30 +1,25 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        unordered_map<char, int> vol;
-        unordered_map<char, int> con;
-        int vol1 = 0;
-        int con1 = 0;
+        unordered_map<char, int> freq;
+        int max_vowel = 0;
+        int max_cons = 0;
 
         for(char ch : s){
-            if(ch == 'a' || ch == 'e' || ch == 'i'
-                || ch == 'o' || ch == 'u'
+            freq[ch]++;
+        }
+
+        for(auto it : freq){
+            if(it.first == 'a' || it.first == 'e' || it.first == 'i'
+                || it.first == 'o' || it.first == 'u'
             ){
-                vol[ch]++;
+                max_vowel = max(max_vowel, it.second);
             }else{
-                con[ch]++;
+                max_cons = max(max_cons, it.second);
             }
         }
-        
-        for(auto it : vol){
-            vol1 = max(vol1, it.second);
-        }
 
-         for(auto it : con){
-            con1 = max(con1, it.second);
-        }
-
-        return vol1+con1;
+        return (max_cons + max_vowel);
 
 
     }
