@@ -1041,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sailendrachettri/daily-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/sailendrachettri/daily-coding/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sailendrachettri/daily-coding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sailendrachettri/daily-coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1093,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sailendrachettri/daily-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/sailendrachettri/daily-coding/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sailendrachettri/daily-coding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sailendrachettri/daily-coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1114,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sailendrachettri/daily-coding/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/sailendrachettri/daily-coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sailendrachettri/daily-coding/tree/master/0854-making-a-large-island) |
+| [0975-range-sum-of-bst](https://github.com/sailendrachettri/daily-coding/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sailendrachettri/daily-coding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sailendrachettri/daily-coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1349,4 +1352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sailendrachettri/daily-coding/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/sailendrachettri/daily-coding/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
