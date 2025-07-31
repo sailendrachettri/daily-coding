@@ -1,12 +1,10 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        int dub = NULL;
-        int mis = NULL;
-
+        int rep = INT_MAX, mis = INT_MAX;
         map<int, int> freq;
 
-        for(int i = 0; i <= grid.size()*grid.size(); i++){
+        for(int i  = 1; i <= grid.size()*grid[0].size(); i++){
             freq[i] = 0;
         }
 
@@ -20,12 +18,12 @@ public:
             if(it.second == 0)
                 mis = it.first;
             if(it.second > 1)
-                dub = it.first;
-
-            if(mis != NULL && dub != NULL)
-                return {dub, mis};
+                rep = it.first;
+            
+            if(mis != INT_MAX && rep != INT_MAX)
+                return {rep, mis};
         }
 
-        return {dub, mis};
+        return {-1, -1};
     }
 };
