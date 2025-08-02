@@ -1,35 +1,26 @@
-class compare{
-    public:
-        bool operator()(pair<int, int> a, pair<int, int> b){
-            return a.second > b.second;
-        }
-};
-
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        priority_queue<pair<int, int>, vector<pair<int, int>>, compare> pq;
-        vector<pair<int, int>> arr;
-        map<int, int> mp;
+        unordered_map<int, int> freq;
+        vector<pair<int, int>> pairs;
         vector<int> ans;
 
-        for(int i = 0; i < nums.size(); i++){
-            mp[nums[i]]++;
+        for(int val : nums){
+            freq[val]++;
         }
 
-        for(auto it : mp){
-            arr.push_back(it);
+        for(auto it : freq){
+            pairs.push_back({it.first, it.second});
         }
 
-        for(int i = 0; i < arr.size(); i++){
-            pq.push(arr[i]);
+        sort(pairs.begin(), pairs.end(), [](auto &left, auto &right){
+            return left.second > right.second;
+        });
 
-            if(pq.size() > k) pq.pop();
-        }
-
-        while(!pq.empty()){
-            ans.push_back(pq.top().first);
-            pq.pop();
+        auto it = pairs.begin();
+        for(int i = 1; i <= k; i++){
+            ans.push_back(it->first);
+            it++;
         }
 
         return ans;
