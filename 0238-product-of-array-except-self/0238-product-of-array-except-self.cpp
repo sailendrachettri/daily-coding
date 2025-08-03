@@ -1,34 +1,30 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> pre(nums.size(), 1);
-        vector<int> suf(nums.size(), 1);
+        vector<int> prefix(nums.size(), 1);
+        vector<int> suffix(nums.size(), 1);
 
-        // prefix
         for(int i = 1; i < nums.size(); i++){
-            pre[i] = nums[i-1] * pre[i-1];
+            prefix[i] = prefix[i-1] * nums[i-1];
         }
 
-        // suffix
-        for(int i = nums.size()-2; i > -1; i--){
-            suf[i] = nums[i+1] * suf[i+1];
-        }
-
-        for(int i = 0; i < pre.size(); i++){
-            cout << pre[i] << " ";
-        }
+        for(int val : prefix)
+            cout << val << " ";
 
         cout << endl;
-        for(int i = 0; i < suf.size(); i++){
-            cout << suf[i] << " ";
+        for(int i = nums.size()-2; i >= 0; i--){
+            suffix[i] = suffix[i+1] * nums[i+1];
         }
 
+        for(int val : suffix)
+            cout << val << " ";
 
-
+        cout << endl << "pringing" << endl;
         nums.clear();
 
-        for(int i = 0; i < pre.size(); i++){
-            nums.push_back(pre[i]*suf[i]);
+        for(int i = 0; i < prefix.size(); i++){
+            nums.push_back(prefix[i] * suffix[i]);
+            cout << nums[i] << endl;
         }
 
         return nums;
