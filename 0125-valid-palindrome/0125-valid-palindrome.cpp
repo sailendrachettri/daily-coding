@@ -1,27 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int start = 0;
-        int end = s.size() - 1;
+        string ans = "";
 
-        while(start <= end){
-            while(start < s.size()-1 && !isalnum(s[start]))
-                start++;
-            while(end > 0 && !isalnum(s[end]))
-                end--;
-            
-            cout << char(tolower(s[start])) << " " << char(tolower(s[end])) << endl;
-            if(start > end)
-                return true;
+        for(char &ch : s){
+            ch = tolower(ch);
 
-            if(char(tolower(s[start])) != char(tolower(s[end]))){
-
-                return false;
+            if(isalnum(ch)){
+                ans += ch;
             }
-
-            start++; end--;
         }
 
-        return true;
+        string copy_ans = ans;
+        reverse(ans.begin(), ans.end());
+
+        return copy_ans == ans;
     }
 };
