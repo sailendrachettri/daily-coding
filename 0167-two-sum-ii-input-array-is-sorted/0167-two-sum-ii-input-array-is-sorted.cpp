@@ -1,20 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int start = 0;
-        int end = numbers.size()-1;
+        unordered_map<int, int> hash;
+        
+        for(int i = 0; i < numbers.size(); i++){
+            auto it = hash.find(target-numbers[i]);
 
-        while(start < end){
-            int sum = numbers[start] + numbers[end];
-            if(sum > target){
-                end--;
-            }else if(sum < target){
-                start++;
-            }else if(sum == target){
-                return {start+1, end+1};
+            if(it != hash.end()){
+                if(numbers[i]+it->first == target)
+                    return {it->second, i+1};
+            }else{
+                hash[numbers[i]] = i+1;
             }
         }
 
-        return {};
+        return {-1, -1};
+
+
     }
 };
