@@ -1,14 +1,12 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& nums, int t) {
-        map<int, int> mp;
-
-        for(int i = 0; i < nums.size(); i++){
-            for(int j = 0; j < nums[0].size(); j++){
-                mp[nums[i][j]]++;
+    bool searchMatrix(vector<vector<int>>& m, int t) {
+        for(int i = 0; i < m.size(); i++){
+            for(int j = 0; j < m[0].size(); j++){
+                if(m[i][j] == t) return true;
             }
         }
 
-        return mp.count(t) > 0 ? true : false;
+        return false;
     }
 };
