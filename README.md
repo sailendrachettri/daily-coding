@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sailendrachettri/daily-coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sailendrachettri/daily-coding/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sailendrachettri/daily-coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sailendrachettri/daily-coding/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sailendrachettri/daily-coding/tree/master/0338-counting-bits) |
@@ -948,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sailendrachettri/daily-coding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sailendrachettri/daily-coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sailendrachettri/daily-coding/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sailendrachettri/daily-coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sailendrachettri/daily-coding/tree/master/0367-valid-perfect-square) |
@@ -996,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sailendrachettri/daily-coding/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sailendrachettri/daily-coding/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
