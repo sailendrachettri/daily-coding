@@ -1,16 +1,24 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        int n= num.length();
-        char maxchar = ' ';
-        for(int i=2; i<n; i++){
-            if(num[i]==num[i-1] && num[i]==num[i-2]){
-                maxchar = max(maxchar,num[i]);
+        vector<string> ans;
+        string str = "";
+
+        for(int i = 2; i < num.size(); i++){
+            if(num[i-2] == num[i-1] && num[i-1] == num[i]){
+                str += num[i];
+                str += num[i];
+                str += num[i];
+
+                ans.push_back(str);
+                str = "";
             }
         }
-        if(maxchar == ' '){
-            return "";
-      }
-     return string(3,maxchar); 
+
+        for(string val : ans){
+            str = max(str, val);
+        }
+
+        return str;
     }
 };
