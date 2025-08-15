@@ -957,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sailendrachettri/daily-coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sailendrachettri/daily-coding/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sailendrachettri/daily-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sailendrachettri/daily-coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sailendrachettri/daily-coding/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/sailendrachettri/daily-coding/tree/master/0368-largest-divisible-subset) |
@@ -1007,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sailendrachettri/daily-coding/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sailendrachettri/daily-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sailendrachettri/daily-coding/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
