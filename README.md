@@ -833,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sailendrachettri/daily-coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/sailendrachettri/daily-coding/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/sailendrachettri/daily-coding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailendrachettri/daily-coding/tree/master/1917-maximum-average-pass-ratio) |
@@ -968,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/sailendrachettri/daily-coding/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/sailendrachettri/daily-coding/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sailendrachettri/daily-coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/sailendrachettri/daily-coding/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/sailendrachettri/daily-coding/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sailendrachettri/daily-coding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
