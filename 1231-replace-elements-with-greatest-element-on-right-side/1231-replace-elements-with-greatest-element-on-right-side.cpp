@@ -1,18 +1,16 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
-        int maxi = -1;
-        int last;
+        vector<int> ans(arr.size(), -1);
 
-        for(int i = arr.size()-1; i >= 0; i--){
-            // cout << arr[i] << endl;
-            last = arr[i];
-            arr[i] = maxi;
-            maxi = max(last, maxi);
+        if(arr.size() == 1) return {-1};
+        if(arr.size() == 0) return {};
 
-            cout << last << " " << maxi << endl;
+
+        for(int i = arr.size()-1; i> 0; i--){
+            ans[i-1] = max(arr[i], ans[i]);
         }
 
-        return arr;
+        return ans;
     }
 };
