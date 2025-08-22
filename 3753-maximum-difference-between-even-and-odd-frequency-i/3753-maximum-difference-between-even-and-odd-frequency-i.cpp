@@ -1,26 +1,21 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        unordered_map<char, int> mp;
+        map<char, int> freq;
+        int odd = INT_MIN, even = INT_MAX;
 
         for(char ch : s){
-            mp[ch]++;
+            freq[ch]++;
         }
 
-        int odd_maxi = INT_MIN;
-        int even_maxi = INT_MAX;
-
-        for(auto it : mp){
-            if(it.second %2 == 0){
-                even_maxi = min(even_maxi, it.second);
-            }
-            if(it.second %2 != 0){
-                odd_maxi = max(odd_maxi, it.second);
+        for(auto it : freq){
+            if(it.second%2 == 0){
+                even = min(even, it.second);
+            }else{
+                odd = max(odd, it.second);
             }
         }
 
-        return odd_maxi - even_maxi;
-        
+        return odd - even;
     }
-
 };
