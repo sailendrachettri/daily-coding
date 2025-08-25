@@ -1,14 +1,14 @@
 class Solution {
 public:
     int hammingWeight(int n) {
+        int count  = 0;
         bitset<32> binary(n);
-        int ans = 0;
 
         for(int i = 0; i < binary.size(); i++){
             if(binary[i] == 1)
-                ans++;
+                count++;
         }
 
-        return ans;
+        return count;
     }
 };
