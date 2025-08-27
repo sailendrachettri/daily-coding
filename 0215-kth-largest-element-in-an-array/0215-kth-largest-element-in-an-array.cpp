@@ -1,8 +1,18 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        sort(nums.begin(), nums.end(), greater<int>());
+        priority_queue<int> pq;
 
-        return nums[k-1];
+        for(int val : nums){
+            pq.push(val);
+        }
+
+        while(k--){
+            cout << pq.top() << " ";
+            if(k == 0)
+                return pq.top();
+            pq.pop();
+        }
+        return 0;
     }
 };
