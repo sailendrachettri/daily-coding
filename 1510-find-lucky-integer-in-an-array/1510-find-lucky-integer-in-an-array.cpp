@@ -1,19 +1,19 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        map<int, int> freq;
-        int ans = -1;
+        unordered_map<int, int> freq;
+        int maxi = -1;
 
         for(int val : arr){
             freq[val]++;
         }
 
         for(auto it : freq){
-            if(it.first == it.second){
-                ans = max(ans, it.second);
-            }
+            if(it.first == it.second) {
+                maxi = max(it.first, maxi);
+            }  
+                
         }
-
-        return ans;
+        return maxi;
     }
 };
