@@ -1,17 +1,24 @@
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        vector<string> ans;
-        map<int, string> sort;
+        map<int, int> mp;
         int i = 0;
+        vector<string> ans(names.size());
 
-        for(int height : heights)
-            sort[height] = names[i++];
-        
-        for(auto it : sort)
-            ans.push_back(it.second);
-        
-        reverse(begin(ans), end(ans));
+        for(int val : heights){
+            mp[val] = i;
+            i++;
+        }
+
+        i = 0;
+        for(auto it : mp){
+            ans[i] = names[it.second];
+            i++;
+        }
+
+        reverse(ans.begin(), ans.end());
+
         return ans;
+
     }
 };
