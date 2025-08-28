@@ -1,21 +1,35 @@
 class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
-        bool is_asc = true;
+        if(nums.size() == 1) return true;
+        bool is_inc = false;
+        int i = 0;
 
-        for(int i = 1; i < nums.size(); i++){
-            if(nums[i-1] > nums[i])
-                is_asc = false;
+        while(i < nums.size() && nums[0] == nums[i]){
+            i++;
         }
 
-        if(is_asc)
-            return true;
+        if(i < nums.size() && nums[0] < nums[i])
+            is_inc = true;
         
-        for(int i = 1; i < nums.size(); i++){
-            if(nums[i-1] < nums[i])
-                return false;
+        if(is_inc){
+            for(int i = 0; i < nums.size()-1; i++){
+                if(nums[i] > nums[i+1])
+                    return false;
+            }
+            return true;
+        }else{
+            for(int i = 0; i < nums.size()-1; i++){
+                if(nums[i] < nums[i+1])
+                    return false;
+            }
+            return true;
         }
 
         return true;
+
+
+        // Handle case when all the elements are equal
+
     }
 };
