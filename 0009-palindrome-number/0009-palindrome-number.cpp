@@ -4,13 +4,13 @@ public:
         if(x < 0) return false;
         
         long long rev = 0;
-        int temp = x;
+        int x2 = x;
 
-        while(temp){
-            rev = rev * 10 + (temp%10);
-            temp /= 10;
+        while(x2){
+            rev = rev * 10 + (x2%10);
+            x2 = x2 / 10;
         }
 
-        return rev == x;
+        return x == rev;
     }
 };
