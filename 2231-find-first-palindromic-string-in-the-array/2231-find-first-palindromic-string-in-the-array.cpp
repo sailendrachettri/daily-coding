@@ -1,16 +1,21 @@
 class Solution {
 public:
+    bool check(string str){
+        int start = 0;
+        int end = str.size()-1;
 
-    bool is_palindrome(string &str){
-        string rev = str;
-        reverse(rev.begin(), rev.end());
+        while(start < end){
+            if(str[start++] != str[end--])
+                return false;
+        }
 
-        return str == rev;
+        return true;
     }
     string firstPalindrome(vector<string>& words) {
-        for(string word : words){
-            if(is_palindrome(word))
-                return word;
+        for(string &word : words){
+            bool res = check(word);
+
+            if(res) return word;
         }
 
         return "";
