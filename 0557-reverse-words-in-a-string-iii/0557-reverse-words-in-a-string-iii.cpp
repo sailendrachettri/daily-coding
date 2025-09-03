@@ -17,8 +17,7 @@ public:
                 swap(s[i++], s[j--]);
             }
 
-            start = end+1;
-            end = end+1;
+            start = ++end;
         }
 
         return s;
