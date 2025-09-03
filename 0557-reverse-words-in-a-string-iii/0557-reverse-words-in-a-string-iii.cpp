@@ -1,21 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<char> t;
-        string ans = "";
+        int start = 0;
+        int end = 0;
+        int size = s.size();
 
-        for(char c : s){
-            if(c == ' '){
-                ans += string(t.rbegin(), t.rend()) + ' ';
-                t.clear();
-
-            } else {
-                t.push_back(c);
+        while(size--){
+            while(end < s.size() && s[end] != ' '){
+                end++;
             }
+
+            int i = start;
+            int j = end-1;
+
+            while(i < j){
+                swap(s[i++], s[j--]);
+            }
+
+            start = end+1;
+            end = end+1;
         }
 
-        ans += string(t.rbegin(), t.rend());
-
-        return ans;
+        return s;
+        
     }
 };
