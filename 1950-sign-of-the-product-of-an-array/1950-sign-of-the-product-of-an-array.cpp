@@ -1,18 +1,17 @@
 class Solution {
 public:
+    int mod = 100000000+7;
+
     int arraySign(vector<int>& nums) {
-        int ans = 1;
-        
-        for(int &val : nums)
-            if(val == 0)
-                val = 0;
-            else if(val < 0)
-                val = -1;
-            else
-                val = 1;
-        for(int &val : nums)
-            ans *= val;
-        
-        return ans;
+        long long prod = 1;
+
+        for(int val : nums){
+            prod = prod * val;
+            prod = prod%mod;
+        }
+
+        if(prod == 0) return 0;
+        else if(prod > 0) return 1;
+        return -1;
     }
 };
