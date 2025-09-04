@@ -1,17 +1,18 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        for(int i = 0; i < s.size(); i++){
-            bool present = false;
+
+        for(int i = 0;  i < s.size(); i++){
+            bool is_present = false;
+
             for(int j = 0; j < s.size(); j++){
-                if(s[i] == s[j] && i != j){
-                    present = true;
+                if(i != j && s[i] == s[j]){
+                    is_present = true;
                     break;
                 }
             }
 
-            if(!present)
-                return i;
+            if(!is_present) return i;
         }
 
         return -1;
