@@ -1,25 +1,25 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-        vector<string> ans;
+        vector<string> unq;
 
         for(int i = 0; i < arr.size(); i++){
-            bool present = false;
+            bool is_present = false;
 
             for(int j = 0; j < arr.size(); j++){
-                if(arr[i] == arr[j] && i != j){
-                    present = true;
+                if(i != j && arr[i] == arr[j]){
+                    is_present = true;
                     break;
                 }
             }
 
-            if(!present)
-                ans.push_back(arr[i]);
+            if(!is_present){
+                unq.push_back(arr[i]);
+            }
         }
 
-        if(ans.size() < k)
-            return "";
-            
-        return ans[k-1];
+        if(unq.size() < k) return "";
+
+        return unq[k-1];
     }
 };
