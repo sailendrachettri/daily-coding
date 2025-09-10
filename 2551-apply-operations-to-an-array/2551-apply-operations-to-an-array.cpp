@@ -1,26 +1,25 @@
 class Solution {
 public:
     vector<int> applyOperations(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> newNums(n, 0); 
-        int count = 0;
-
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] != 0) {
-                if (nums[i] == nums[i + 1]) {
-                    newNums[count] = nums[i] * 2; 
-                    nums[i + 1] = 0;
-                    i++; 
-                } else {
-                    newNums[count] = nums[i]; 
-                }
-                count++;
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i] == nums[i-1]){
+                nums[i-1] *= 2;
+                nums[i] = 0;
             }
-        }
-        if (nums[n - 1] != 0) {
-            newNums[count++] = nums[n - 1];
+
         }
 
-        return newNums;
+        int size = nums.size();
+        int idx = 0;
+
+        for(int i = 0; i < size; i++){
+            if(nums[idx] == 0){
+                nums.erase(nums.begin()+idx);
+                nums.push_back(0);
+            }else idx++;
+
+        }
+
+        return nums;
     }
 };
