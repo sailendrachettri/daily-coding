@@ -1,50 +1,48 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int, int> mp;
         vector<vector<int>> ans;
-        vector<int> temp;
-        set<int> st;
+
+        for(int val : nums2)
+            mp[val]++;
+        
+        set<int> temp;
+        vector<int> unq;
+        for(int val : nums1){
+            auto it = mp.find(val);
+
+            if(!(it != mp.end())){
+                temp.insert(val);
+            }
+        }
+
+        for(int val : temp)
+            unq.push_back(val);
+
+        ans.push_back(unq);
+        temp.clear();
+        unq.clear();
+        mp.clear();
 
         for(int val : nums1){
-            bool present = false;
-
-            for(int i = 0; i < nums2.size(); i++){
-                if(val == nums2[i]){
-                    present = true;
-                    break;
-                }
-            }
-
-            if(!present)
-                st.insert(val);
+            mp[val]++;
         }
-
-        for(int val : st)
-            temp.push_back(val);
-
-        ans.push_back(temp);
-        temp.clear();
-        st.clear();
 
         for(int val : nums2){
-            bool present = false;
+            auto it = mp.find(val);
 
-            for(int i = 0; i < nums1.size(); i++){
-                if(val == nums1[i]){
-                    present = true;
-                    break;
-                }
+            if(!(it != mp.end())){
+                temp.insert(val);
             }
-
-            if(!present)
-                st.insert(val);
         }
 
-        for(int val : st)
-            temp.push_back(val);
+        for(int val : temp)
+            unq.push_back(val);
 
-        ans.push_back(temp);
+        ans.push_back(unq);
 
         return ans;
+
     }
 };
