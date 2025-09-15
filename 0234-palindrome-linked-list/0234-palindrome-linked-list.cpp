@@ -12,18 +12,21 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         vector<int> arr;
-        vector<int> rev;
+        vector<int> arr2;
+        ListNode* temp = head;
 
-        ListNode*temp = head;
 
-        while(temp != NULL){
+        while(temp){
             arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        rev = arr;
-        reverse(begin(arr), end(arr));
+        arr2  = arr;
 
-        return rev == arr;
+        reverse(arr2.begin(), arr2.end());
+
+        return arr == arr2;
+
+        
     }
 };
