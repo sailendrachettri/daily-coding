@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sailendrachettri/daily-coding/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sailendrachettri/daily-coding/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sailendrachettri/daily-coding/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/sailendrachettri/daily-coding/tree/master/0389-find-the-difference) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sailendrachettri/daily-coding/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/sailendrachettri/daily-coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sailendrachettri/daily-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sailendrachettri/daily-coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sailendrachettri/daily-coding/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/sailendrachettri/daily-coding/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/sailendrachettri/daily-coding/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0941-sort-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sailendrachettri/daily-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sailendrachettri/daily-coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
