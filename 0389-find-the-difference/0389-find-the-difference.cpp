@@ -1,10 +1,18 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        for(int i = 0; i < s.size(); i++){
-            t[i+1] += t[i] - s[i];
+        for(char ch : s){
+            for(int i = 0; i < t.size();){
+                if(ch == t[i]){
+                    t.erase(t.begin()+i);
+                    break;
+                }else{
+                    i++;
+                }
+            }
         }
-        return t[t.size() - 1];
         
+        
+        return t[0];
     }
 };
