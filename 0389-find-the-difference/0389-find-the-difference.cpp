@@ -1,18 +1,13 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        for(char ch : s){
-            for(int i = 0; i < t.size();){
-                if(ch == t[i]){
-                    t.erase(t.begin()+i);
-                    break;
-                }else{
-                    i++;
-                }
-            }
-        }
-        
-        
-        return t[0];
+        char ans = 0;
+
+        for(char ch : s)
+            ans ^= ch;
+        for(char ch : t)
+            ans ^= ch;
+
+        return ans;
     }
 };
