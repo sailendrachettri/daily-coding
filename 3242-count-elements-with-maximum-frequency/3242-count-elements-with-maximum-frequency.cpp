@@ -12,14 +12,11 @@ public:
             arr.push_back(it.second);
         }
 
-        sort(arr.begin(), arr.end(), greater<int>());
-
-        int val = arr[0];
+        int val = *max_element(arr.begin(), arr.end());
 
         for(int num : arr){
-            if(val != num)
-                break;
-            ans += num;
+            if(val == num)
+                ans += num;
         }
 
         return ans;
