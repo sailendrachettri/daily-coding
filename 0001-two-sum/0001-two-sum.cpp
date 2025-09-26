@@ -1,19 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> mp;
+        unordered_map<int, int> freq;
         int idx = 0;
 
         for(int val : nums){
-            auto it = mp.find(target-val);
+            auto it = freq.find(target-val);
 
-            if(it != mp.end()){
-                if(it->second != idx && it->first+val == target)
-                    return {it->second, idx};
+            if(it != freq.end()){
+                if(val + it->first == target && it->second != idx)
+                    return {idx, it->second};
             }
-
-            mp[val] = idx;
-            idx++;
+            freq[val] = idx++;
         }
 
         return {-1, -1};
