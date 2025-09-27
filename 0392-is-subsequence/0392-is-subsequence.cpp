@@ -5,10 +5,11 @@ public:
         int idx = 0;
 
         for(int i = 0; i < t.size(); i++){
-            if(t[i] == s[idx])
+            if(s[idx]==t[i]){
                 ans += s[idx++];
+            }
         }
 
-        return ans == s;
+        return s == ans;
     }
 };
