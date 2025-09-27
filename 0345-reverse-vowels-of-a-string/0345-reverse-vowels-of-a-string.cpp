@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool is_vowel(char ch){
         ch = tolower(ch);
 
@@ -15,16 +14,15 @@ public:
         int end = s.size()-1;
 
         while(start < end){
-            while( start < end && !(is_vowel(s[start])))
+            while(start < end && !is_vowel(s[start]))
                 start++;
-            while(start < end && !(is_vowel(s[end])))
+            while(end >= start && !is_vowel(s[end]))
                 end--;
-
-            if(start >= end)
-                return s;
-
-            cout << s[start] << " " << s[end] << endl;
-
+            
+            // if(start >= end)
+            //     return s;
+            
+            if(start < end)
             swap(s[start++], s[end--]);
         }
 
