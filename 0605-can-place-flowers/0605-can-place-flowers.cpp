@@ -1,19 +1,25 @@
 class Solution {
 public:
-    bool canPlaceFlowers(vector<int>& f, int n) {
-       if(n == 0)  return true;
+    bool canPlaceFlowers(vector<int>& fb, int n) {
+        vector<int> bed;
+        
+        bed.push_back(0);
 
-       f.insert(f.begin(), 0);
-       f.push_back(0);
+        for(int val : fb)
+            bed.push_back(val);
+        
+        bed.push_back(0);
 
-        for(int i = 2; i < f.size(); i++){
-            if(f[i-2] == 0 && f[i-1] == 0 && f[i] == 0){
-                f[i-1] = 1;
+        for(int i = 1; i < bed.size()-1; i++){
+            if(bed[i-1] != 1 && bed[i] != 1 && bed[i+1] != 1){
+                bed[i] = 1;
                 n--;
             }
         }
-       
 
-        return n <= 0;
+        if(n <= 0) return true;
+
+        return false;
+
     }
 };
