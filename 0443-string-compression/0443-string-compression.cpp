@@ -1,40 +1,40 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        vector<pair<char, int>> freq;
         int len = 0;
+        int idx = 0;
 
         char temp = chars[0];
         for(char ch : chars){
             if(ch == temp){
                 len++;
             }else{
-                freq.push_back({temp, len});
+                chars[idx++] = temp;
+                if(len != 1){
+                    string str_len = to_string(len);
+                    reverse(str_len.begin(), str_len.end());
+
+                    while(!str_len.empty()){
+                        chars[idx++] = str_len.back();
+                        str_len.pop_back();
+                    }
+                }
                 temp = ch;
                 len = 1;
             }
         }
 
-        freq.push_back({temp, len});
+        chars[idx++] = temp;
+        if(len != 1){
+            string str_len = to_string(len);
+            reverse(str_len.begin(), str_len.end());
 
-        for(auto it : freq){
-            cout << it.first << " " << it.second << endl;
-        }
-        
-        chars.clear();
-        for(auto it : freq){
-            chars.push_back(it.first);
-            if(it.second != 1){
-                string len = to_string(it.second);
-                reverse(len.begin(), len.end());
-
-                while(!len.empty()){
-                    chars.push_back(len.back());
-                    len.pop_back();
-                }
+            while(!str_len.empty()){
+                chars[idx++] = str_len.back();
+                str_len.pop_back();
             }
         }
 
-        return chars.size();
+        return idx;
     }
 };
