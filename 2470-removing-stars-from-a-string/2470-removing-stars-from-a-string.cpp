@@ -4,11 +4,11 @@ public:
         string ans = "";
 
         for(char ch : s){
-            if(ch != '*'){
+            if(ch == '*'){
+                if(ans.size() > 0)
+                    ans.pop_back();
+            }else if(ch != '*')
                 ans += ch;
-            }else if(ch == '*' && ans.size()){
-                ans.pop_back();
-            }
         }
 
         return ans;
