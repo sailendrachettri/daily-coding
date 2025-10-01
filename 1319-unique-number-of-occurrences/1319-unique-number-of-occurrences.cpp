@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        unordered_map<int, int> freq;
-        unordered_map<int, int> occr;
+        map<int, int> freq, freq2;
 
-        for(int val : arr)
+        for(int val:arr)
             freq[val]++;
         
         for(auto it : freq)
-            occr[it.second]++;
+            freq2[it.second]++;
         
-        for(auto it : occr)
+        for(auto it : freq2){
             if(it.second > 1)
                 return false;
-        
+        }
+
         return true;
     }
 };
