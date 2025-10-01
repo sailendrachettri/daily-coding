@@ -4,7 +4,6 @@ public:
         int ans = 0;
 
         for(int val : nums){
-            cout << ans << " ";
             ans ^= val;
         }
 
