@@ -6,13 +6,15 @@ public:
         int ans = 0;
 
         while(start < end){
-            int mini = min(height[start], height[end]);
-            ans = max(ans, mini*(end-start));
+            int h = min(height[start], height[end]);
+            int w = end - start;
 
-            if(height[start] < height[end]){
-                start++;
-            }else
+            ans = max(ans, h*w);
+
+            if(height[start] > height[end])
                 end--;
+            else
+                start++;
         }
 
         return ans;
