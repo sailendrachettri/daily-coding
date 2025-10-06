@@ -5,12 +5,12 @@ public:
         int idx = 0;
 
         for(int val : nums){
-            auto it = freq.find(target-val);
+            auto it = freq.find(target - val);
 
-            if(it != freq.end()){
-                if(val + it->first == target && it->second != idx)
+            if(it != freq.end())
+                if(it->first+val == target)
                     return {idx, it->second};
-            }
+                
             freq[val] = idx++;
         }
 
