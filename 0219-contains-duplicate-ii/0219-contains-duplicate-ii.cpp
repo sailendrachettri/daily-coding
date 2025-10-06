@@ -7,14 +7,13 @@ public:
             auto it = mp.find(nums[i]);
 
             if(it != mp.end()){
-                if(i != it->second && nums[i]==it->first && abs(i-it->second) <= k)
+                if(nums[i] ==  it->first && abs(i- it->second) <= k)
                     return true;
             }
+
             mp[nums[i]] = i;
-            
         }
 
         return false;
-
     }
 };
