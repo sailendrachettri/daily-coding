@@ -4,12 +4,13 @@ public:
         string ans = "";
         int idx = 0;
 
-        for(int i = 0; i < t.size(); i++){
-            if(s[idx]==t[i]){
-                ans += s[idx++];
+        for(char ch : t){
+            if(ch == s[idx]){
+                ans += ch;
+                idx++;
             }
         }
 
-        return s == ans;
+        return ans == s;
     }
 };
