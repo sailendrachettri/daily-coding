@@ -595,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/sailendrachettri/daily-coding/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sailendrachettri/daily-coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
+| [0742-to-lower-case](https://github.com/sailendrachettri/daily-coding/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
