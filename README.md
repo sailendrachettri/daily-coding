@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/sailendrachettri/daily-coding/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3643-zero-array-transformation-ii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/sailendrachettri/daily-coding/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sailendrachettri/daily-coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sailendrachettri/daily-coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sailendrachettri/daily-coding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/sailendrachettri/daily-coding/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3643-zero-array-transformation-ii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/sailendrachettri/daily-coding/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/sailendrachettri/daily-coding/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/sailendrachettri/daily-coding/tree/master/3644-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
