@@ -6,11 +6,9 @@ public:
 
         for(int i = 0; i < gain.size(); i++){
             prefix_sum[i+1] = gain[i] + prefix_sum[i];
+            ans = max(prefix_sum[i], ans);
         }
 
-        for(int val : prefix_sum)
-            ans = max(ans, val);
-
-        return ans;
+        return max(ans, prefix_sum[prefix_sum.size()-1]);
     }
 };
