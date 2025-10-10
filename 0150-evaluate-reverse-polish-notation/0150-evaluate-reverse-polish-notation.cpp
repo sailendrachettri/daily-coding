@@ -1,44 +1,38 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<int> st;
+        stack<int> stk;
 
-        for(string s : tokens){
-            if(s == "+"){
-                int val1 = st.top();
-                st.pop();
-                int val2 = st.top();
-                st.pop();
-
-                st.push(val2+val1);
-            }else if(s == "*"){
-                int val1 = st.top();
-                st.pop();
-                int val2 = st.top();
-                st.pop();
-
-                st.push(val2*val1);
-            }else if(s == "/"){
-                int val1 = st.top();
-                st.pop();
-                int val2 = st.top();
-                st.pop();
-
-                st.push(val2/val1);
-            }else if(s == "-"){
-                int val1 = st.top();
-                st.pop();
-                int val2 = st.top();
-                st.pop();
-
-                st.push(val2-val1);
+        for(string st : tokens){
+            if(st == "+"){
+                int val1 = stk.top();
+                stk.pop();
+                int val2 = stk.top();
+                stk.pop();
+                stk.push(val1+val2);
+            }else if(st == "-"){
+                int val1 = stk.top();
+                stk.pop();
+                int val2 = stk.top();
+                stk.pop();
+                stk.push(val2-val1);
+            }else if(st == "*"){
+                int val1 = stk.top();
+                stk.pop();
+                int val2 = stk.top();
+                stk.pop();
+                stk.push(val1*val2);
+            }else if(st == "/"){
+                int val1 = stk.top();
+                stk.pop();
+                int val2 = stk.top();
+                stk.pop();
+                stk.push(val2/val1);
             }else{
-                cout << s << endl;
-                int val = stoi(s);
-                st.push(val);
+                stk.push(stoi(st));
             }
         }
 
-        return st.top();
+        return stk.top();
     }
 };
