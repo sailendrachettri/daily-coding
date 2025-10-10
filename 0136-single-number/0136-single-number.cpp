@@ -1,12 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
+        map<int, int> mp;
+        for(int val : nums)
+            mp[val]++;
 
-        for(int val : nums){
-            ans ^= val;
+        for(auto it : mp){
+            if(it.second == 1) return it.first;
         }
 
-        return ans;
+        return -1;
     }
 };
