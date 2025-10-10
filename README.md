@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/sailendrachettri/daily-coding/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailendrachettri/daily-coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/sailendrachettri/daily-coding/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/sailendrachettri/daily-coding/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sailendrachettri/daily-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sailendrachettri/daily-coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/sailendrachettri/daily-coding/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sailendrachettri/daily-coding/tree/master/2394-count-subarrays-with-score-less-than-k) |
