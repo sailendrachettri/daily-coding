@@ -12,25 +12,24 @@ class Solution {
 public:
     ListNode* sortList(ListNode* head) {
         ListNode* temp = head;
-        vector<int> ans;
+        vector<int> arr;
 
-        while(temp != NULL){
-            ans.push_back(temp->val);
+        while(temp){
+            arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        sort(ans.begin(), ans.end(), greater<int>());
-
-        for(int val : ans)
-            cout << val << " ";
+        sort(arr.begin(), arr.end(), greater<int>());
 
         temp = head;
-        while( ans.size() > 0 && temp != NULL){
-            temp->val = ans[ans.size()-1];
-            ans.pop_back();
+
+        while(!arr.empty()){
+            temp->val = arr.back();
+            arr.pop_back();
             temp = temp->next;
         }
 
         return head;
+        
     }
 };
