@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/sailendrachettri/daily-coding/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/sailendrachettri/daily-coding/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sailendrachettri/daily-coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/sailendrachettri/daily-coding/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -783,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/sailendrachettri/daily-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sailendrachettri/daily-coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sailendrachettri/daily-coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sailendrachettri/daily-coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sailendrachettri/daily-coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
