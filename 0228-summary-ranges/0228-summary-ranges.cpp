@@ -11,11 +11,7 @@ public:
                 if(left == i-1)
                     ans.push_back(to_string(nums[left]));
                 else{
-                    string st = "";
-                    st += to_string(nums[left]);
-                    st += "->";
-                    st += to_string(nums[i-1]);
-                    ans.push_back(st);
+                    ans.push_back(to_string(nums[left]) + "->" + to_string(nums[i-1]));
                 }
                 left = i;
             }
