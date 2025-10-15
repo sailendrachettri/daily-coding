@@ -11,31 +11,31 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        map<int, int> mp;
+        vector<int> ans;
+        ListNode* temp = list1;
         ListNode* dummy = new ListNode(0);
 
-        ListNode* temp = list1;
-
         while(temp){
-            mp[temp->val]++;
+            ans.push_back(temp->val);
             temp = temp->next;
         }
 
         temp = list2;
+
         while(temp){
-            mp[temp->val]++;
+            ans.push_back(temp->val);
             temp = temp->next;
         }
 
+        sort(ans.begin(), ans.end(), greater<int>());
         temp = dummy;
-
-        for(auto it : mp){
-            for(int i = 0; i < it.second; i++){
-                temp->next  = new ListNode(it.first);
-                temp = temp->next;
-            }
+        while(!ans.empty()){
+            temp->next = new ListNode(ans.back());
+            ans.pop_back();
+            temp = temp->next;
         }
 
         return dummy->next;
-    }
+        
+    } 
 };
