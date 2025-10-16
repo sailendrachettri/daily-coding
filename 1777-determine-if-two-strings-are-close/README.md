@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/determine-if-two-strings-are-close">Determine if Two Strings Are Close</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Two strings are considered <strong>close</strong> if you can attain one from the other using the following operations:</p>
+<h2><a href="https://leetcode.com/problems/determine-if-two-strings-are-close">1777. Determine if Two Strings Are Close</a></h2><h3>Medium</h3><hr><p>Two strings are considered <strong>close</strong> if you can attain one from the other using the following operations:</p>
 
 <ul>
 	<li>Operation 1: Swap any two <strong>existing</strong> characters.
@@ -44,7 +44,7 @@ Apply Operation 1: &quot;<u>a</u>c<u>b</u>&quot; -&gt; &quot;<u>b</u>c<u>a</u>&q
 <strong>Output:</strong> true
 <strong>Explanation:</strong> You can attain word2 from word1 in 3 operations.
 Apply Operation 1: &quot;ca<u>b</u>bb<u>a</u>&quot; -&gt; &quot;ca<u>a</u>bb<u>b</u>&quot;
-<code>Apply Operation 2: &quot;</code><u>c</u>aa<u>bbb</u>&quot; -&gt; &quot;<u>b</u>aa<u>ccc</u>&quot;
+Apply Operation 2: &quot;<u>c</u>aa<u>bbb</u>&quot; -&gt; &quot;<u>b</u>aa<u>ccc</u>&quot;
 Apply Operation 2: &quot;<u>baa</u>ccc&quot; -&gt; &quot;<u>abb</u>ccc&quot;
 </pre>
 
