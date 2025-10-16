@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/sailendrachettri/daily-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sailendrachettri/daily-coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/sailendrachettri/daily-coding/tree/master/1848-sum-of-unique-elements) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sailendrachettri/daily-coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sailendrachettri/daily-coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sailendrachettri/daily-coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/sailendrachettri/daily-coding/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sailendrachettri/daily-coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -635,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sailendrachettri/daily-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sailendrachettri/daily-coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sailendrachettri/daily-coding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sailendrachettri/daily-coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/sailendrachettri/daily-coding/tree/master/1894-merge-strings-alternately) |
