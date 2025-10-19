@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        string ans = "";
+        string st = "";
+
         int idx = 0;
 
-        for(char ch : t){
-            if(ch == s[idx]){
-                ans += ch;
-                idx++;
+        for(int i = 0; i < t.size(); i++){
+            if(t[i] == s[idx]){
+                st += s[idx++];
             }
         }
 
-        return ans == s;
+        return st == s;
     }
 };
