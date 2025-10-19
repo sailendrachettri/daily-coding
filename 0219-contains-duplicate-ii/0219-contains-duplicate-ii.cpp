@@ -7,8 +7,7 @@ public:
             auto it = mp.find(nums[i]);
 
             if(it != mp.end()){
-                if(nums[i] ==  it->first && abs(i- it->second) <= k)
-                    return true;
+                if(abs(it->second-i) <= k) return true;
             }
 
             mp[nums[i]] = i;
