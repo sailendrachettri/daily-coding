@@ -7,14 +7,13 @@ public:
 
         while(start < end){
             int h = min(height[start], height[end]);
-            int w = end - start;
+            int w = end-start;
 
             ans = max(ans, h*w);
-
+            
             if(height[start] > height[end])
                 end--;
-            else
-                start++;
+            else start++;
         }
 
         return ans;
