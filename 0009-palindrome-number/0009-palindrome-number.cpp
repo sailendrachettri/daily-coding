@@ -1,13 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x < 0) return false;
+        long long val = x;
         long long rev = 0;
-        int x_copy = x;
 
-        while(x_copy){
-            rev = rev * 10 + (x_copy%10);
-            x_copy /= 10;
+        if(x < 0) return false;
+
+        while(val){
+            rev = rev * 10 + (val%10);
+            val = val/10;
         }
 
         return rev == x;
