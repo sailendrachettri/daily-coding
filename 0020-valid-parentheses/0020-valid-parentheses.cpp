@@ -12,9 +12,9 @@ public:
                 char top = st.top();
                 st.pop();
 
-                if(top == '(' && ch != ')' ||
-                   top == '[' && ch != ']' ||
-                   top == '{' && ch != '}'
+                if(top == '(' && ch != ')'  ||
+                   top == '[' && ch != ']' || 
+                   top == '{' && ch != '}' 
                 ) return false;
             }
         }
