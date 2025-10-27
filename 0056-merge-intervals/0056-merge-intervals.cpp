@@ -8,15 +8,16 @@ public:
             ends.push_back(arr[1]);
         }
 
-        sort(starts.begin(), starts.end());
-        sort(ends.begin(), ends.end());
+        sort(begin(starts), end(starts));
+        sort(begin(ends), end(ends));
 
         for(int i = 1; i < starts.size(); ){
             if(starts[i] <= ends[i-1]){
                 starts.erase(starts.begin()+i);
                 ends.erase(ends.begin()+(i-1));
-            }else
+            }else{
                 i++;
+            }
         }
 
         intervals.clear();
