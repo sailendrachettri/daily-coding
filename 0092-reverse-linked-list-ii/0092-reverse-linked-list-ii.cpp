@@ -12,30 +12,25 @@ class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         vector<int> arr;
-        ListNode *temp = head;
+        ListNode* temp = head;
 
         while(temp){
             arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        left--; right--;
+        left = left-1;
+        right = right-1;
 
         while(left < right){
             swap(arr[left++], arr[right--]);
         }
 
-        for(int val : arr)
-            cout << val << " ";
-
         temp = head;
 
-        reverse(arr.begin(), arr.end());
-
-        while(!arr.empty()){
-            temp->val = arr.back();
+        for(int i = 0; i < arr.size(); i++){
+            temp->val = arr[i];
             temp = temp->next;
-            arr.pop_back();
         }
 
         return head;
