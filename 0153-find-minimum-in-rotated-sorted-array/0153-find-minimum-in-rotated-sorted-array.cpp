@@ -1,11 +1,12 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int ans = INT_MAX;
+        int ans = nums[0];
 
-        for(int val : nums)
+        for(int val : nums){
             ans = min(ans, val);
-        
+        }
+
         return ans;
     }
 };
