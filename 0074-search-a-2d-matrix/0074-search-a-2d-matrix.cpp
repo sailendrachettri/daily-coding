@@ -1,9 +1,9 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& m, int target) {
-        for(vector<int> nums : m){
-            for(int j = 0; j < nums.size(); j++){
-                if(nums[j] == target) return true;
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        for(vector<int> arr : matrix){
+            for(int val : arr){
+                if(val == target) return true;
             }
         }
 
