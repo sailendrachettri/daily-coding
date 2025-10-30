@@ -11,34 +11,32 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        map<int, int> freq;
+        ListNode*temp;
+        ListNode * dummy = new ListNode(0);
+        vector<int> arr;
 
-        ListNode* temp = nullptr;
-        ListNode*dummy = new ListNode(0);
-
-        for(ListNode*list : lists){
+        for(auto list : lists){
             temp = list;
 
             while(temp){
-                freq[temp->val]++;
+                arr.push_back(temp->val);
                 temp = temp->next;
             }
-            temp = nullptr;
         }
+
+        for(int val : arr){
+            cout << val << " ";
+        }
+
+        sort(arr.begin(), arr.end());
 
         temp = dummy;
 
-        for(auto it : freq){
-            int size = it.second;
-
-            while(size--){
-                temp->next = new ListNode(it.first);
-                temp = temp->next;
-            }
+        for(int i = 0; i < arr.size(); i++){
+            temp->next = new ListNode(arr[i]);
+            temp = temp->next;
         }
 
         return dummy->next;
-
-        
     }
 };
