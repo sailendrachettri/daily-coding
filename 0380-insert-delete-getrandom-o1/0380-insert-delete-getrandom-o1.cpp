@@ -1,42 +1,41 @@
 class RandomizedSet {
 public:
-    unordered_map<int, int> mp;
-    vector<int> arr;
-
     RandomizedSet() {
         
     }
+
+    unordered_map<int, int> mp;
     
     bool insert(int val) {
-        if(mp.count(val))
-            return false;
-        
-        arr.push_back(val);
-        mp[val] = arr.size()-1;
+        auto it = mp.find(val);
 
-        return true;
+        if(!(it != mp.end())){
+            mp[val]++;
+
+            return true;
+        }
+
+        return false;
     }
     
     bool remove(int val) {
-        if(!mp.count(val))
-            return false;
-        
-        int idx = mp[val];
-        int last = arr.back();
+        auto it = mp.find(val);
 
-        arr[idx] = last;
-        mp[last] = idx;
+        if(!(it != mp.end())) return false;
 
-        arr.pop_back();
         mp.erase(val);
-
         return true;
     }
     
     int getRandom() {
-        int idx = rand()%arr.size();
-        cout << idx << " " << endl;
-        return arr[idx];
+        int val = rand()%mp.size();
+        auto it = (mp.begin());
+        
+        while(val--){
+            it++;
+        }
+
+        return it->first;
     }
 };
 
