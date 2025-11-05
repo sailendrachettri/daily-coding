@@ -1,37 +1,49 @@
 class Solution {
 public:
-    bool wordPattern(string p, string s) {
-        vector<string> st;
-        string cur = "";
+    bool wordPattern(string pattern, string s) {
+        unordered_map<char, string> mp1;
+        unordered_map<string, char> mp2;
 
-        for(auto it : s){
-            if(it == ' '){
-                st.push_back(cur);
-                cur = "";
-                continue;
+        string st = "";
+        int idx = 0;
+        for(int i = 0; i < s.size(); i++){
+
+            if(s[i] != ' '){
+                st += s[i];
+            }else{
+                cout << st << " " << pattern[idx] << endl;
+                auto it1 = mp1.find(pattern[idx]);
+                auto it2 = mp2.find(st);
+
+                if(it1 != mp1.end()){
+                    if(it1->second != st) return false;
+                }
+                if(it2 != mp2.end()){
+                    if(it2->second != pattern[idx]) return false;
+                }
+
+                if(idx >= pattern.size()-1) return false;
+
+                mp1[pattern[idx]] = st;
+                mp2[st] = pattern[idx++];
+                st = "";
             }
-            cur += it;
         }
 
-        st.push_back(cur);
+        cout << st << " " << pattern[idx] << endl;
+        auto it1 = mp1.find(pattern[idx]);
+        auto it2 = mp2.find(st);
 
-        if(st.size() != p.size()) return false;
-        
-        
-        map<char, string> mp;
-        map<string, char> check;
-
-        for(int i = 0; i < p.size(); i++){
-            if(!mp.count(p[i])){
-                mp[p[i]] = st[i];
-                if(check.count(st[i])) return false;
-                check[st[i]] = p[i];
-            } else {
-                if(mp[p[i]] != st[i]) return false;
-            }
+        if(it1 != mp1.end()){
+            if(it1->second != st) return false;
         }
+        if(it2 != mp2.end()){
+            if(it2->second != pattern[idx]) return false;
+        }
+        mp1[pattern[idx]] = st;
+        mp2[st] = pattern[idx++];
+        st = "";
 
-        return true;
-
+        return idx >= pattern.size();
     }
 };
