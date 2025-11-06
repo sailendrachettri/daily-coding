@@ -11,53 +11,34 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        vector<int> arr, temparr, ans;
+        vector<int> arr;
         ListNode* temp = head;
-        int right = 0, size = 0;
+        int right = 0;
 
         while(temp){
             arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        size = arr.size()-1;
+        int i = 0, j = 0;
+        while(right < arr.size()){
+           
+           i = right;
+           j = (right + k)-1;
 
-        cout << arr.size() << endl;
-
-        while(right <= size){
-            int times = k;
-
-            while(right <= size && times--){
-                cout << arr[right] << " ";
-                temparr.push_back(arr[right++]);
-            }
-
-            // for(int val : temparr){
-            //     cout << val << " ";
-            // }
-
-            if(temparr.size() == k){
-                int i = 0, j = temparr.size()-1;
-
+            if(right < arr.size()-k+1){
                 while(i < j){
-                    swap(temparr[i++], temparr[j--]);
+                    swap(arr[i++], arr[j--]);
                 }
             }
-
-            for(int i = 0; i < temparr.size(); i++){
-                // cout << temparr[i] << " ";
-                ans.push_back(temparr[i]);
-            }
-
-            temparr.clear();
+            right = right+k;
         }
 
         temp = head;
         
 
-        for(int i = 0; i < ans.size(); i++){
-            // cout << ans[i] << " ";
-            temp->val = ans[i];
+        for(int i = 0; i < arr.size(); i++){
+            temp->val = arr[i];
             temp = temp->next;
         }
 
