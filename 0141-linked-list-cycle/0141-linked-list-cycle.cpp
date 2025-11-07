@@ -9,13 +9,20 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode * slow = head;
-        ListNode* fast = head;
+        if(!head) return false;
 
-        while(fast != NULL && fast->next != NULL){
-            fast = fast->next->next;
-            slow = slow->next;
-            if(fast == slow) return true;
+        unordered_map<ListNode*, int> mp;
+        ListNode* temp = head;
+
+        while(temp){
+            auto it = mp.find(temp->next);
+
+            if(it != mp.end()){
+                 return true;
+            }
+
+            mp[temp->next]++;
+            temp = temp->next;
         }
 
         return false;
