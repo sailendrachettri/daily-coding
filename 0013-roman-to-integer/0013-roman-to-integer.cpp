@@ -1,8 +1,8 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        map<char, int> mp;
         int ans = 0;
+        map<char, int> mp;
 
         mp.insert({'I', 1});
         mp.insert({'V', 5});
