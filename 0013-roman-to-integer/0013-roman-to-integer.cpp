@@ -11,6 +11,7 @@ public:
         mp.insert({'C', 100});
         mp.insert({'D', 500});
         mp.insert({'M', 1000});
+        mp.insert({'a', 0});
 
         for(int i = 0; i < s.size(); i++){
             if(mp[s[i]] >= mp[s[i+1]])
