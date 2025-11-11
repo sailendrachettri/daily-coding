@@ -5,15 +5,14 @@ public:
         vector<vector<string>> ans;
 
         for(string s : strs){
-            string st = s;
+            string copy = s;
+            sort(copy.begin(), copy.end());
 
-            sort(st.begin(), st.end());
-
-            mp[st].push_back(s);
+            mp[copy].push_back(s);
         }
 
-        for(auto it : mp){
-            ans.push_back(it.second);
+        for(auto m : mp){
+            ans.push_back(m.second);
         }
 
         return ans;
