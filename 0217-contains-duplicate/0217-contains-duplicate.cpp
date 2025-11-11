@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        map<int, int> freq;
+        unordered_map<int, int> mp;
 
         for(int val : nums){
-            freq[val]++;
+            auto it = mp.find(val);
 
-            if(freq[val] > 1)
-                return true;
+            if(it != mp.end()) return true;
+            mp[val]++;
         }
 
         return false;
     }
 };
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
-
