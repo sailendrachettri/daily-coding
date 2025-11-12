@@ -7,12 +7,7 @@ public:
     }
     
     void put(int key, int value) {
-        auto it = mp.find(key);
-
-        if(it != mp.end()){
-            mp[key] = value;
-        }else
-            mp[key] = value;
+        mp[key] = value;
     }
     
     int get(int key) {
@@ -26,11 +21,8 @@ public:
     }
     
     void remove(int key) {
-        auto it = mp.find(key);
-
-        if(it != mp.end()){
-            mp.erase(key);
-        }
+        mp.erase(key);
+        
     }
 };
 
