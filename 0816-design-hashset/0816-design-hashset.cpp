@@ -1,22 +1,29 @@
 class MyHashSet {
 public:
-
-    vector<bool> table;
+    unordered_map<int, int> mp;
 
     MyHashSet() {
-        table.assign(1e6+1, false);
+        
     }
     
     void add(int key) {
-        table[key] = true;
+        mp[key]++;
     }
     
     void remove(int key) {
-        table[key] = false;
+        auto it = mp.find(key);
+
+        if(it != mp.end()){
+            mp.erase(key);
+        }
     }
     
     bool contains(int key) {
-        return table[key];
+        auto it = mp.find(key);
+
+        if(it != mp.end()) return true;
+
+        return false;
     }
 };
 
