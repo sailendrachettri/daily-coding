@@ -1,15 +1,24 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        map<int, int> freq;
+        int zeros = 0, ones = 0, twos = 0;
+
         for(int val : nums){
-            freq[val]++;
+            if(val == 0) zeros++;
+            else if(val == 1) ones++;
+            else twos++;
         }
+
         nums.clear();
-        for(auto it : freq){
-            for(int i = 0; i < it.second; i++){
-                nums.push_back(it.first);
-            }
+
+        for(int i = 1; i <= zeros; i++){
+            nums.push_back(0);
+        }
+        for(int i = 1; i <= ones; i++){
+            nums.push_back(1);
+        }
+        for(int i = 1; i <= twos; i++){
+            nums.push_back(2);
         }
     }
 };
