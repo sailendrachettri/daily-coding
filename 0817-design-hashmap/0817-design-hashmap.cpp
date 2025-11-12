@@ -1,26 +1,36 @@
 class MyHashMap {
 public:
-
-    int a[1000001];
+    unordered_map<int, int> mp;
 
     MyHashMap() {
-        for(int i = 0; i < 1000001; i++){
-            a[i] = -1;
-        }
+        
     }
     
     void put(int key, int value) {
-        a[key] = value;
+        auto it = mp.find(key);
+
+        if(it != mp.end()){
+            mp[key] = value;
+        }else
+            mp[key] = value;
     }
     
     int get(int key) {
-        if(a[key] == -1) return -1;
+        auto it = mp.find(key);
 
-        return a[key];
+        if(it != mp.end()){
+            return it->second;
+        }
+
+        return -1;
     }
     
     void remove(int key) {
-        if(a[key] != -1) a[key] = -1;
+        auto it = mp.find(key);
+
+        if(it != mp.end()){
+            mp.erase(key);
+        }
     }
 };
 
