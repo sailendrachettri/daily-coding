@@ -1,17 +1,17 @@
 class Solution {
 public:
     int maxOperations(string s) {
-        int op = 0, count = 0;
-        int idx = 0;
+        int op = 0, count1 = 0;
 
-        while(idx < s.size()){
-            if(s[idx] == '0'){
-                op += count;
-                while(idx < s.size() && s[idx] == '0')
-                    idx++;
+        for(int i = 0; i < s.size();){
+            if(s[i] == '1'){
+                count1++;
+                i++;
             }else{
-                count++;
-                idx++;
+                op += count1;
+
+                while(i < s.size() && s[i] == '0')
+                    i++;
             }
         }
 
