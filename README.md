@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sailendrachettri/daily-coding/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sailendrachettri/daily-coding/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sailendrachettri/daily-coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/sailendrachettri/daily-coding/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/sailendrachettri/daily-coding/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sailendrachettri/daily-coding/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sailendrachettri/daily-coding/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/sailendrachettri/daily-coding/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -934,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sailendrachettri/daily-coding/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sailendrachettri/daily-coding/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sailendrachettri/daily-coding/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/sailendrachettri/daily-coding/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
