@@ -12,11 +12,12 @@ public:
                 st.erase(s[left++]);
             }
 
+            st.insert(s[idx++]);
+
             int size = st.size();
             ans = max(ans, size);
-            st.insert(s[idx++]);
         }
 
-        return ans+1;
+        return ans;
     }
 };
