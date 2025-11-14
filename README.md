@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sailendrachettri/daily-coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/sailendrachettri/daily-coding/tree/master/1547-destination-city) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sailendrachettri/daily-coding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailendrachettri/daily-coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sailendrachettri/daily-coding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sailendrachettri/daily-coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sailendrachettri/daily-coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/sailendrachettri/daily-coding/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sailendrachettri/daily-coding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailendrachettri/daily-coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sailendrachettri/daily-coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sailendrachettri/daily-coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
