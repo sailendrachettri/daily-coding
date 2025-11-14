@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/sailendrachettri/daily-coding/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/sailendrachettri/daily-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -881,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/sailendrachettri/daily-coding/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sailendrachettri/daily-coding/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
