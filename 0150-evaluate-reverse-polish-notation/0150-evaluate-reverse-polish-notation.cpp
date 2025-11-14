@@ -3,37 +3,40 @@ public:
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
 
-        for(string s : tokens){
-            if(s == "+"){
-                int val1 = st.top();
+        for(string token : tokens){
+            if(token == "+"){
+                int val1  = st.top();
                 st.pop();
                 int val2 = st.top();
                 st.pop();
+
                 st.push(val2+val1);
             }
-            else if(s == "-"){
-                int val1 = st.top();
+            else if(token == "-"){
+                int val1  = st.top();
                 st.pop();
                 int val2 = st.top();
                 st.pop();
+
                 st.push(val2-val1);
             }
-            else if(s == "/"){
-                int val1 = st.top();
+            else if(token == "/"){
+                int val1  = st.top();
                 st.pop();
                 int val2 = st.top();
                 st.pop();
+
                 st.push(val2/val1);
             }
-            else if(s == "*"){
-                int val1 = st.top();
+            else if(token == "*"){
+                int val1  = st.top();
                 st.pop();
                 int val2 = st.top();
                 st.pop();
+
                 st.push(val2*val1);
             }else{
-                int val = stoi(s);
-                st.push(val);
+                st.push(stoi(token));
             }
         }
 
