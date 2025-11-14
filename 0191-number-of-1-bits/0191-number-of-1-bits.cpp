@@ -5,9 +5,8 @@ public:
         int ans = 0;
 
         for(int i = 0; i < binary.size(); i++){
-            if(binary[i] == 1)
-                ans++;
-        } 
+            if(binary[i] == 1) ans++;
+        }
 
         return ans;
     }
