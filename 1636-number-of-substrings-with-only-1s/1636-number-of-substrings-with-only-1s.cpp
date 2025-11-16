@@ -1,19 +1,19 @@
 class Solution {
 public:
     int numSub(string s) {
-        int MOD = 1e9 + 7;
-        long long ans = 0, count = 0;
+        int mod = 1e9+7;
+        long long count = 0;
+        long long ans = 0;
 
         for(char ch : s){
-            if(ch == '1'){
-                count++;
-            }else{
-                ans = (ans + count * (count + 1) / 2) % MOD;
+            if(ch == '1') count++;
+            else{
+                ans += (count * (count + 1) / 2) % mod;
                 count = 0;
             }
         }
 
-        ans = (ans + count * (count + 1) / 2) % MOD;
+        ans += (count * (count + 1) / 2) % mod;
 
         return ans;
     }
