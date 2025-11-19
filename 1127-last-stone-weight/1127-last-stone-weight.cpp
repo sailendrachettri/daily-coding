@@ -3,12 +3,10 @@ public:
     int lastStoneWeight(vector<int>& stones) {
         while(stones.size() > 1){
             sort(stones.begin(), stones.end());
-            int val1 = stones.back();
-            stones.pop_back();
-            int val2 = stones.back();
-            stones.pop_back();
 
-            int res = abs(val1-val2);
+            int res = abs(stones[stones.size()-2] - stones[stones.size()-1]);
+            stones.pop_back();
+            stones.pop_back(); 
 
             if(res > 0)
                 stones.push_back(res);
