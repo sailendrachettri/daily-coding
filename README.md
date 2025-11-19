@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sailendrachettri/daily-coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/sailendrachettri/daily-coding/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1127-last-stone-weight](https://github.com/sailendrachettri/daily-coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/sailendrachettri/daily-coding/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sailendrachettri/daily-coding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1023,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/sailendrachettri/daily-coding/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/sailendrachettri/daily-coding/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailendrachettri/daily-coding/tree/master/1917-maximum-average-pass-ratio) |
