@@ -17,23 +17,11 @@ public:
             }
         }
 
-        for(char ch : a){
-            cout << ch << " ";
-        }cout << endl;
-        
-        for(char ch : b){
-            cout << ch << " ";
-        }
-        cout << endl;
-
         for(int i = a.size()-1; i >= 0; i--){
             int sum = (a[i]-'0') + (b[i]-'0') + carry;
             ans += ((sum%2)+'0');
-            cout << ans << endl;
             carry = sum / 2;
         }
-
-        cout << "\ncarry " << carry << endl;
 
         if(carry == 1){
             ans.push_back('1');
