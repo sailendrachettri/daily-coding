@@ -3,24 +3,23 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int carry = 0;
         int idx = digits.size()-1;
-        int sum = 1;
+        vector<int> ans;
 
-        do{
-            cout << "inside " << endl;
-            sum = (digits[idx]+carry);
-            if(idx == digits.size()-1){
-                sum++;
-            }
-            digits[idx] = sum%10;
+        while(idx >= 0){
+            int sum = digits[idx] + carry;
+            if(idx == digits.size()-1) sum++;
+
+            ans.push_back(sum%10);
             carry = sum / 10;
             idx--;
-
-        }while(carry == 1 && idx >= 0);
-
-        if(carry == 1){
-            digits.insert(digits.begin(), carry);
         }
 
-        return digits;
+        if(carry){
+            ans.push_back(1);
+        }
+
+        reverse(ans.begin(), ans.end());
+
+        return ans;
     }
 };
