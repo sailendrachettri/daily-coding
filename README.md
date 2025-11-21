@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/sailendrachettri/daily-coding/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sailendrachettri/daily-coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailendrachettri/daily-coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/sailendrachettri/daily-coding/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1364-tuple-with-same-product](https://github.com/sailendrachettri/daily-coding/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
@@ -1029,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/sailendrachettri/daily-coding/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/sailendrachettri/daily-coding/tree/master/1304-longest-happy-string) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/sailendrachettri/daily-coding/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailendrachettri/daily-coding/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sailendrachettri/daily-coding/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
