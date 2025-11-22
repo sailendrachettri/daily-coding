@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sailendrachettri/daily-coding/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/sailendrachettri/daily-coding/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/sailendrachettri/daily-coding/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sailendrachettri/daily-coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
