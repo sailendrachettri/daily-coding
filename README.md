@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/sailendrachettri/daily-coding/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
 | [0831-masking-personal-information](https://github.com/sailendrachettri/daily-coding/tree/master/0831-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/sailendrachettri/daily-coding/tree/master/0868-push-dominoes) |
@@ -1370,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sailendrachettri/daily-coding/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
