@@ -633,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
+| [0831-masking-personal-information](https://github.com/sailendrachettri/daily-coding/tree/master/0831-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/sailendrachettri/daily-coding/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/sailendrachettri/daily-coding/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/0952-word-subsets) |
