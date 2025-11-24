@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int mod = 1e9 + 7;
+
     vector<bool> prefixesDivBy5(vector<int>& nums) {
-        unsigned long long dec = 0;
+        int dec = 0;
         vector<bool> ans;
 
         for(int val : nums){
