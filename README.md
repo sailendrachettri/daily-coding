@@ -627,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sailendrachettri/daily-coding/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/sailendrachettri/daily-coding/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/sailendrachettri/daily-coding/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/sailendrachettri/daily-coding/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sailendrachettri/daily-coding/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1368,6 +1369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sailendrachettri/daily-coding/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sailendrachettri/daily-coding/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
