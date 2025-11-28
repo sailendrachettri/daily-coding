@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sailendrachettri/daily-coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sailendrachettri/daily-coding/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sailendrachettri/daily-coding/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/sailendrachettri/daily-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sailendrachettri/daily-coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sailendrachettri/daily-coding/tree/master/0202-happy-number) |
@@ -1349,6 +1350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sailendrachettri/daily-coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sailendrachettri/daily-coding/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sailendrachettri/daily-coding/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/sailendrachettri/daily-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sailendrachettri/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sailendrachettri/daily-coding/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sailendrachettri/daily-coding/tree/master/0148-sort-list) |
