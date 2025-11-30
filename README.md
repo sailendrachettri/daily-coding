@@ -609,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sailendrachettri/daily-coding/tree/master/3637-count-number-of-balanced-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sailendrachettri/daily-coding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -1138,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sailendrachettri/daily-coding/tree/master/3637-count-number-of-balanced-permutations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sailendrachettri/daily-coding/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sailendrachettri/daily-coding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -1179,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sailendrachettri/daily-coding/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sailendrachettri/daily-coding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
 | ------- |
