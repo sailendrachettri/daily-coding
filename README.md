@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-earliest-time-to-finish-one-task](https://github.com/sailendrachettri/daily-coding/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sailendrachettri/daily-coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sailendrachettri/daily-coding/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sailendrachettri/daily-coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sailendrachettri/daily-coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sailendrachettri/daily-coding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
