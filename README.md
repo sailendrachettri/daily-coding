@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/sailendrachettri/daily-coding/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sailendrachettri/daily-coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sailendrachettri/daily-coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/sailendrachettri/daily-coding/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sailendrachettri/daily-coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sailendrachettri/daily-coding/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
