@@ -833,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sailendrachettri/daily-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3195-separate-black-and-white-balls) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sailendrachettri/daily-coding/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Trie
 |  |
 | ------- |
@@ -1043,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3643-zero-array-transformation-ii) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sailendrachettri/daily-coding/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1186,6 +1188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sailendrachettri/daily-coding/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sailendrachettri/daily-coding/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sailendrachettri/daily-coding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
