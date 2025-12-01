@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailendrachettri/daily-coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sailendrachettri/daily-coding/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sailendrachettri/daily-coding/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailendrachettri/daily-coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sailendrachettri/daily-coding/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sailendrachettri/daily-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sailendrachettri/daily-coding/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -1141,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailendrachettri/daily-coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sailendrachettri/daily-coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1444,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/sailendrachettri/daily-coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
