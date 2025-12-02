@@ -1142,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/sailendrachettri/daily-coding/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sailendrachettri/daily-coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sailendrachettri/daily-coding/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/sailendrachettri/daily-coding/tree/master/2652-sum-multiples) |
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sailendrachettri/daily-coding/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/sailendrachettri/daily-coding/tree/master/2998-count-symmetric-integers) |
