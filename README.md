@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sailendrachettri/daily-coding/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/sailendrachettri/daily-coding/tree/master/2727-number-of-senior-citizens) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sailendrachettri/daily-coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sailendrachettri/daily-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sailendrachettri/daily-coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2733-neither-minimum-nor-maximum](https://github.com/sailendrachettri/daily-coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sailendrachettri/daily-coding/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
