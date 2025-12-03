@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sailendrachettri/daily-coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/sailendrachettri/daily-coding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/1470-shuffle-the-array) |
