@@ -758,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sailendrachettri/daily-coding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sailendrachettri/daily-coding/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sailendrachettri/daily-coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/sailendrachettri/daily-coding/tree/master/3396-valid-word) |
@@ -1190,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sailendrachettri/daily-coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/sailendrachettri/daily-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sailendrachettri/daily-coding/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sailendrachettri/daily-coding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
