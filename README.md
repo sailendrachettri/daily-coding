@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sailendrachettri/daily-coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/sailendrachettri/daily-coding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/1470-shuffle-the-array) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sailendrachettri/daily-coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/sailendrachettri/daily-coding/tree/master/1500-count-largest-group) |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sailendrachettri/daily-coding/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1256-rank-transform-of-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sailendrachettri/daily-coding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sailendrachettri/daily-coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
