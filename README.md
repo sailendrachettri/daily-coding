@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/sailendrachettri/daily-coding/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sailendrachettri/daily-coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/sailendrachettri/daily-coding/tree/master/0965-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/sailendrachettri/daily-coding/tree/master/1002-maximum-width-ramp) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sailendrachettri/daily-coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sailendrachettri/daily-coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/sailendrachettri/daily-coding/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sailendrachettri/daily-coding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sailendrachettri/daily-coding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
