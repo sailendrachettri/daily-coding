@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sailendrachettri/daily-coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailendrachettri/daily-coding/tree/master/1917-maximum-average-pass-ratio) |
+| [1920-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/1920-build-array-from-permutation) |
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sailendrachettri/daily-coding/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/1920-build-array-from-permutation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sailendrachettri/daily-coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
