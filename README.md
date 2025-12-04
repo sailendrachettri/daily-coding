@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/sailendrachettri/daily-coding/tree/master/2727-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sailendrachettri/daily-coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/sailendrachettri/daily-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sailendrachettri/daily-coding/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -1237,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sailendrachettri/daily-coding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/sailendrachettri/daily-coding/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sailendrachettri/daily-coding/tree/master/3722-lexicographically-smallest-string-after-reverse) |
