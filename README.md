@@ -739,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sailendrachettri/daily-coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2278-percentage-of-letter-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/2278-percentage-of-letter-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sailendrachettri/daily-coding/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/2346-largest-3-same-digit-number-in-string) |
