@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sailendrachettri/daily-coding/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sailendrachettri/daily-coding/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2915-count-of-interesting-subarrays) |
 | [2942-find-words-containing-character](https://github.com/sailendrachettri/daily-coding/tree/master/2942-find-words-containing-character) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sailendrachettri/daily-coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sailendrachettri/daily-coding/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sailendrachettri/daily-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3195-separate-black-and-white-balls) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sailendrachettri/daily-coding/tree/master/3722-lexicographically-smallest-string-after-reverse) |
