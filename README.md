@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sailendrachettri/daily-coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sailendrachettri/daily-coding/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sailendrachettri/daily-coding/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sailendrachettri/daily-coding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sailendrachettri/daily-coding/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sailendrachettri/daily-coding/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2915-count-of-interesting-subarrays) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sailendrachettri/daily-coding/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sailendrachettri/daily-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3242-count-elements-with-maximum-frequency) |
