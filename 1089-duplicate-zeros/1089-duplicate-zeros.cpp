@@ -1,21 +1,18 @@
 class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {
+        int idx = 0;
         int n = arr.size();
-        vector<int> ans;
 
-        for(int i = 0; i < n; i++){
-            if(arr[i] != 0){
-                ans.push_back(arr[i]);
+        while(idx < n){
+            if(arr[idx] == 0){
+                arr.insert(arr.begin()+idx, 0);
+                idx+=2;
+                continue;
             }
-            else {
-               ans.push_back(0);
-               ans.push_back(0);
-            }
+            idx++;
         }
 
-        while(ans.size() > n) ans.pop_back();
-        arr.clear();
-        arr = ans;
+        while(arr.size() > n) arr.pop_back();
     }
 };
