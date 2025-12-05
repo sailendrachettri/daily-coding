@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailendrachettri/daily-coding/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/sailendrachettri/daily-coding/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sailendrachettri/daily-coding/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sailendrachettri/daily-coding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sailendrachettri/daily-coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sailendrachettri/daily-coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/sailendrachettri/daily-coding/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailendrachettri/daily-coding/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sailendrachettri/daily-coding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sailendrachettri/daily-coding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -884,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/sailendrachettri/daily-coding/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2551-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sailendrachettri/daily-coding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sailendrachettri/daily-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sailendrachettri/daily-coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sailendrachettri/daily-coding/tree/master/2699-count-the-number-of-fair-pairs) |
