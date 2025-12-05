@@ -1202,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sailendrachettri/daily-coding/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sailendrachettri/daily-coding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/sailendrachettri/daily-coding/tree/master/3321-type-of-triangle) |
+| [3516-find-closest-person](https://github.com/sailendrachettri/daily-coding/tree/master/3516-find-closest-person) |
 | [3548-find-the-count-of-good-integers](https://github.com/sailendrachettri/daily-coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailendrachettri/daily-coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
