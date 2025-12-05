@@ -755,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sailendrachettri/daily-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2470-removing-stars-from-a-string) |
+| [2490-circular-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/sailendrachettri/daily-coding/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sailendrachettri/daily-coding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
