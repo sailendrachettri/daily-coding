@@ -8,11 +8,10 @@ public:
             if(arr[idx] == 0){
                 arr.insert(arr.begin()+idx, 0);
                 idx+=2;
+                arr.pop_back();
                 continue;
             }
             idx++;
         }
-
-        while(arr.size() > n) arr.pop_back();
     }
 };
