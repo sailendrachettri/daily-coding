@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/sailendrachettri/daily-coding/tree/master/1547-destination-city) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sailendrachettri/daily-coding/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailendrachettri/daily-coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-matrix-diagonal-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/sailendrachettri/daily-coding/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailendrachettri/daily-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1420,6 +1421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/sailendrachettri/daily-coding/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailendrachettri/daily-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1572-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/sailendrachettri/daily-coding/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/sailendrachettri/daily-coding/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2047-find-a-peak-element-ii) |
