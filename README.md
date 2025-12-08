@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/sailendrachettri/daily-coding/tree/master/2942-find-words-containing-character) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sailendrachettri/daily-coding/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sailendrachettri/daily-coding/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sailendrachettri/daily-coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sailendrachettri/daily-coding/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/sailendrachettri/daily-coding/tree/master/3447-clear-digits) |
@@ -1140,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/2868-continuous-subarrays) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sailendrachettri/daily-coding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
