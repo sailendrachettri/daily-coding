@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sailendrachettri/daily-coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/sailendrachettri/daily-coding/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sailendrachettri/daily-coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sailendrachettri/daily-coding/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sailendrachettri/daily-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3394-minimum-array-end](https://github.com/sailendrachettri/daily-coding/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sailendrachettri/daily-coding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sailendrachettri/daily-coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/sailendrachettri/daily-coding/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sailendrachettri/daily-coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sailendrachettri/daily-coding/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
