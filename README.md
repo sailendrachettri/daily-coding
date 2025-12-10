@@ -1196,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/sailendrachettri/daily-coding/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sailendrachettri/daily-coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/sailendrachettri/daily-coding/tree/master/1952-three-divisors) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sailendrachettri/daily-coding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sailendrachettri/daily-coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1269,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/sailendrachettri/daily-coding/tree/master/1656-count-good-triplets) |
+| [1952-three-divisors](https://github.com/sailendrachettri/daily-coding/tree/master/1952-three-divisors) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sailendrachettri/daily-coding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailendrachettri/daily-coding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1530,6 +1532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sailendrachettri/daily-coding/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/sailendrachettri/daily-coding/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sailendrachettri/daily-coding/tree/master/2413-smallest-even-multiple) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sailendrachettri/daily-coding/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sailendrachettri/daily-coding/tree/master/2610-closest-prime-numbers-in-range) |
