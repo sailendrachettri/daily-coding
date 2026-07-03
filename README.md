@@ -767,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sailendrachettri/daily-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/sailendrachettri/daily-coding/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/2470-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/sailendrachettri/daily-coding/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sailendrachettri/daily-coding/tree/master/2580-circular-sentence) |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/sailendrachettri/daily-coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sailendrachettri/daily-coding/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/sailendrachettri/daily-coding/tree/master/2481-strictly-palindromic-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/2551-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sailendrachettri/daily-coding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1046,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sailendrachettri/daily-coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sailendrachettri/daily-coding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sailendrachettri/daily-coding/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sailendrachettri/daily-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/sailendrachettri/daily-coding/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sailendrachettri/daily-coding/tree/master/2616-maximal-score-after-applying-k-operations) |
