@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/1920-build-array-from-permutation) |
 | [1923-sentence-similarity-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/sailendrachettri/daily-coding/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sailendrachettri/daily-coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/sailendrachettri/daily-coding/tree/master/1972-rotating-the-box) |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/sailendrachettri/daily-coding/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sailendrachettri/daily-coding/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sailendrachettri/daily-coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/sailendrachettri/daily-coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sailendrachettri/daily-coding/tree/master/2058-concatenation-of-array) |
