@@ -4,10 +4,11 @@ public:
         unordered_map<int, int> mp;
 
         for(int val : nums){
-            auto it = mp.find(val);
-
-            if(it != mp.end()) return true;
             mp[val]++;
+        }
+
+        for(auto it : mp){
+            if(it.second > 1) return true;
         }
 
         return false;
