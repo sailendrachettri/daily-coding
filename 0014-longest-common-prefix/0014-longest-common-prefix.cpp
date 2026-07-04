@@ -5,8 +5,8 @@ public:
         int idx = 0;
 
         for(int i = 0; i < strs[0].size(); i++){
-            for(string s : strs){
-                if(s[idx] != strs[0][idx]) return ans;
+            for(int j = 0; j < strs.size(); j++){
+                if(strs[0][idx] != strs[j][idx]) return ans;
             }
             ans += strs[0][idx++];
         }
