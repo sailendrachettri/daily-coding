@@ -776,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/sailendrachettri/daily-coding/tree/master/2942-find-words-containing-character) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sailendrachettri/daily-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3110-score-of-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/3110-score-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sailendrachettri/daily-coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sailendrachettri/daily-coding/tree/master/3194-find-words-containing-character) |
