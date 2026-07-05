@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/sailendrachettri/daily-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sailendrachettri/daily-coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sailendrachettri/daily-coding/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sailendrachettri/daily-coding/tree/master/0733-flood-fill) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
 | [0768-partition-labels](https://github.com/sailendrachettri/daily-coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/sailendrachettri/daily-coding/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/sailendrachettri/daily-coding/tree/master/0797-rabbits-in-forest) |
@@ -1298,6 +1300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sailendrachettri/daily-coding/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sailendrachettri/daily-coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1478,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0908-middle-of-the-linked-list) |
@@ -1488,6 +1492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sailendrachettri/daily-coding/tree/master/0817-design-hashmap) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sailendrachettri/daily-coding/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
