@@ -10,16 +10,10 @@ public:
             else twos++;
         }
 
-        while(zeros--){
-            nums[idx++] = 0;
-        }
+        while(zeros--)  nums[idx++] = 0;
 
-        while(ones--){
-            nums[idx++] = 1;
-        }
+        while(ones--)   nums[idx++] = 1;
 
-        while(twos--){
-            nums[idx++] = 2;
-        }
+        while(twos--)   nums[idx++] = 2;
     }
 };
