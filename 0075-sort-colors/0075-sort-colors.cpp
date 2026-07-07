@@ -1,38 +1,25 @@
 class Solution {
 public:
-    void merge(vector<int> & arr, int low, int mid, int high){
-        vector<int> temp;
-        int left = low;
-        int right = mid + 1;
-
-        while(left <= mid && right <= high){
-            if(arr[left] <= arr[right])
-                temp.push_back(arr[left++]);
-            else temp.push_back(arr[right++]);
-        }
-
-        while(left <= mid){
-            temp.push_back(arr[left++]);
-        }
-
-        while(right <= high){
-            temp.push_back(arr[right++]);
-        }
-
-        for(int i = low; i <= high; i++){
-            arr[i] = temp[i-low];
-        }
-    }
-    void mergeSort(vector<int> & arr, int low, int high){
-        if(low == high) return;
-        
-        int mid = (low + high) / 2;
-
-        mergeSort(arr, low, mid);
-        mergeSort(arr, mid+1, high);
-        merge(arr, low, mid, high);
-    }
     void sortColors(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size()-1);
+        int zeros = 0, ones = 0, twos = 0;
+        int idx = 0;
+
+        for(int &val : nums){
+            if(val == 0) zeros++;
+            else if(val == 1) ones++;
+            else twos++;
+        }
+
+        while(zeros--){
+            nums[idx++] = 0;
+        }
+
+        while(ones--){
+            nums[idx++] = 1;
+        }
+
+        while(twos--){
+            nums[idx++] = 2;
+        }
     }
 };
