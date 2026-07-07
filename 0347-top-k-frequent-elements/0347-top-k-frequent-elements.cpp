@@ -2,25 +2,29 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         map<int, int> mp;
-        vector<pair<int, int>> arr;
         vector<int> ans;
 
-        for(int val : nums){
+        for(int & val : nums){
             mp[val]++;
         }
 
-        for(auto it : mp){
-            arr.push_back({it.second, it.first});
-        }
+        vector<pair<int, int>> p(mp.begin(), mp.end());
 
-        sort(arr.begin(), arr.end(), [](auto &a, auto &b){
-            return a.first > b.first;
+        sort(p.begin(), p.end(), [](const pair<int, int> & a, const pair<int, int> & b){
+            return a.second > b.second;
         });
 
+        // for(auto it : p) cout << it.first << " " << it.second << endl;
+
+
+        auto it = p.begin();
         for(int i = 0; i < k; i++){
-            ans.push_back(arr[i].second);
+
+            ans.push_back(it->first);
+            it++;
         }
 
         return ans;
+
     }
 };
