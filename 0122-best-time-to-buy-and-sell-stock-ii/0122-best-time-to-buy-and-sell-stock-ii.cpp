@@ -6,9 +6,9 @@ public:
 
         for(int i = 1; i < prices.size(); i++){
             int profit = prices[i] - best_buy;
-            if(profit > 0)
-                max_profit += profit;
-            
+
+            if(profit > 0) max_profit += profit;
+
             best_buy = prices[i];
         }
 
