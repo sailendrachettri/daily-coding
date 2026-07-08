@@ -1,20 +1,26 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> pre(nums.size(), 1), suf(nums.size(), 1);
+        vector<int> pre1(nums.size(), 1), pre2(nums.size(), 1);
+        vector<int> ans(nums.size(), 1);
 
-        for(int i = 1; i < nums.size(); i++){
-            pre[i] = nums[i-1] * pre[i-1];
+        for(int i = 1; i < pre1.size(); i++){
+            pre1[i] = nums[i-1] * pre1[i-1];
         }
 
-        for(int i = nums.size()-2; i >= 0; i--){
-            suf[i] = suf[i+1] * nums[i+1];
+        // for(int val : pre1) cout << val << " ";
+
+        for(int i = pre2.size()-2; i >= 0; i--){
+            pre2[i] = nums[i+1] * pre2[i+1];
+        }
+        
+        // cout << endl;
+        // for(int val : pre2) cout << val << " ";
+
+        for(int i = 0; i < pre1.size(); i++){
+            ans[i] = pre1[i] * pre2[i];
         }
 
-        for(int i = 0; i < nums.size(); i++){
-            nums[i] = pre[i] * suf[i];
-        }
-
-        return nums;
+        return ans;
     }
-};
+};   
