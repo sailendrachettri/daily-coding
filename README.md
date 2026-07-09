@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sailendrachettri/daily-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/sailendrachettri/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sailendrachettri/daily-coding/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/sailendrachettri/daily-coding/tree/master/0636-exclusive-time-of-functions) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/sailendrachettri/daily-coding/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/sailendrachettri/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sailendrachettri/daily-coding/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sailendrachettri/daily-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0705-design-hashset](https://github.com/sailendrachettri/daily-coding/tree/master/0705-design-hashset) |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sailendrachettri/daily-coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sailendrachettri/daily-coding/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sailendrachettri/daily-coding/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sailendrachettri/daily-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sailendrachettri/daily-coding/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sailendrachettri/daily-coding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailendrachettri/daily-coding/tree/master/1046-max-consecutive-ones-iii) |
