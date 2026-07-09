@@ -1,20 +1,27 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans = "";
-        string rev = "";
+        int start = 0, right = s.size()-1;
 
-        for(char ch : s){
-            ch = tolower(ch);
+        while(start < right){
+            while(start < s.size() && !isalnum(s[start]))
+                start++;
+            
+            while(right >= 0 && !isalnum(s[right]))
+                right--;
 
-            if(isalnum(ch))
-                ans += ch;
+            if(start >= right) return true;
+
+            char chleft = s[start++];
+            chleft = tolower(chleft);
+
+            char chright = s[right--];
+            chright = tolower(chright);
+
+            if(chleft != chright) return false;
+            
         }
 
-        rev = ans;
-
-        reverse(rev.begin(), rev.end());
-
-        return ans == rev;
+        return true;
     }
 };
