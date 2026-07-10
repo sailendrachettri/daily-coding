@@ -1,31 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        int n = nums.size();
+        set<vector<int>> ans;
+        vector<vector<int>> res;
+
         sort(nums.begin(), nums.end());
-        set<vector<int>> st;
 
-        vector<vector<int>> op;
+        for(int i = 0; i < nums.size(); i++){
+            for(int j = i+1; j < nums.size(); j++){
+                int a = nums[i];
+                int b = nums[j];
+                int c = j+1;
+                int d = nums.size()-1;
 
-        for(int i = 0; i < n-3; i++){
-            for(int j = i+1; j < n-2; j++){
-                int k = j+1, l = n-1;
+                while(c < d){
+                    long long sum = 1LL * nums[c] + nums[d];
 
-                while(k < l){
-                    long long sum = (long long) nums[i] + (long long) nums[j] + (long long) nums[k] + (long long) nums[l];
-                    if(sum == target)
-                        st.insert({nums[i], nums[j], nums[k++], nums[l--]});
-                    else if(sum < target)
-                        k++;
-                    else
-                        l--;
+                    if(sum + a + b == target) ans.insert({a, b, nums[c++], nums[d--]});
+                    else if(sum + a + b > target) d--;
+                    else c++;
                 }
             }
         }
 
-        for(auto &i : st)
-            op.push_back(i);
-        
-        return op;
+        for(auto it : ans)
+            res.push_back(it);
+
+        return res;
     }
 };
