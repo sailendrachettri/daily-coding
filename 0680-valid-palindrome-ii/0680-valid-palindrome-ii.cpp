@@ -9,24 +9,14 @@ public:
     }
     bool validPalindrome(string s) {
         int start = 0, end = s.size()-1;
-        bool res;
-
+        
         while(start < end){
-            if(s[start] == s[end]){
-                start++; end--;
-                res = true;
-            }else{
-
-                res = isValid(start+1, end, s);
-                if(res) return true;
-
-                res = isValid(start, end-1, s);
-                if(res) return true;
-
-                return false;
-            } 
+            if(s[start] != s[end]) 
+                return isValid(start+1, end, s) || isValid(start, end-1, s);
+            
+            start++; end--;
         }
 
-        return res;
+        return true;
     }
 };
