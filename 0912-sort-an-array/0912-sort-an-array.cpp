@@ -8,7 +8,6 @@ public:
         while(left <= mid && right <= high){
             if(arr[left] <= arr[right])
                 temp.push_back(arr[left++]);
-
             else 
                 temp.push_back(arr[right++]);
         }
@@ -23,8 +22,8 @@ public:
             arr[i] = temp[i-low];
         }
     }
-    void mergeSort(vector<int> &arr, int low, int high){
-        if(low == high) return ;
+    void mergeSort(vector<int> & arr, int low, int high){
+        if(low == high) return;
 
         int mid = (low + high) / 2;
 
