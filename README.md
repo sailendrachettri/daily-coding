@@ -1301,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/sailendrachettri/daily-coding/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/sailendrachettri/daily-coding/tree/master/1656-count-good-triplets) |
 | [1952-three-divisors](https://github.com/sailendrachettri/daily-coding/tree/master/1952-three-divisors) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sailendrachettri/daily-coding/tree/master/1993-sum-of-all-subset-xor-totals) |
