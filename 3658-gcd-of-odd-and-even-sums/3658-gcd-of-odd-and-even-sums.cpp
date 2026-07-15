@@ -2,22 +2,16 @@ class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
         int oddSum = 0, evenSum = 0;
-        int idx = 1;
-        int t = n;
+        int idx1 = 1;
+        int idx2 = 2;
 
-        while(t--){
-            oddSum += idx;
-            idx += 2;
+        while(n--){
+            oddSum += idx1;
+            idx1 += 2;
+
+            evenSum += idx2;
+            idx2 += 2;
         }
-
-        t = n;
-        idx = 2;
-        while(t--){
-            evenSum += idx;
-            idx += 2;
-        }
-
-        // cout << oddSum << " " << evenSum << endl;
 
         return __gcd(oddSum, evenSum);
     }
