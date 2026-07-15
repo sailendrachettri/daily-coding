@@ -1264,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sailendrachettri/daily-coding/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sailendrachettri/daily-coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sailendrachettri/daily-coding/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sailendrachettri/daily-coding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1579,6 +1580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/sailendrachettri/daily-coding/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sailendrachettri/daily-coding/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sailendrachettri/daily-coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sailendrachettri/daily-coding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
