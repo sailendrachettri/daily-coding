@@ -3,7 +3,7 @@ public:
     void merge(vector<int> &nums, int low, int mid, int high){
         vector<int> temp;
         int left = low;
-        int right = mid+1;
+        int right = mid + 1;
 
         while(left <= mid && right <= high){
             if(nums[left] <= nums[right])
@@ -25,7 +25,7 @@ public:
 
         int mid = (low + high) / 2;
 
-        mergeSort(nums,low, mid);
+        mergeSort(nums, low, mid);
         mergeSort(nums, mid+1, high);
         merge(nums, low, mid, high);
     }
