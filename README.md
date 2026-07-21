@@ -706,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sailendrachettri/daily-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sailendrachettri/daily-coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sailendrachettri/daily-coding/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sailendrachettri/daily-coding/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/sailendrachettri/daily-coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sailendrachettri/daily-coding/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sailendrachettri/daily-coding/tree/master/0443-string-compression) |
@@ -1022,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sailendrachettri/daily-coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sailendrachettri/daily-coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sailendrachettri/daily-coding/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sailendrachettri/daily-coding/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/sailendrachettri/daily-coding/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/sailendrachettri/daily-coding/tree/master/0682-baseball-game) |
@@ -1292,6 +1294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sailendrachettri/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sailendrachettri/daily-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sailendrachettri/daily-coding/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sailendrachettri/daily-coding/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sailendrachettri/daily-coding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sailendrachettri/daily-coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/sailendrachettri/daily-coding/tree/master/2050-count-good-numbers) |
