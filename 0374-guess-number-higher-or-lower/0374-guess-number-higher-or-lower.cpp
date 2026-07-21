@@ -10,20 +10,19 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        int start = 0, end = n;
+        int left = 0;
+        int right = n;
 
-        while(start <= end){
-            int mid = start + (end-start)/2;
+        while(left <= right){
+            int mid = midpoint(left, right);
 
-            int val = guess(mid);
-
-            if(val == 0) return mid;
-            else if(val == -1)
-                end = mid-1;
-            else start = mid+1;
-
+            if(guess(mid) == -1){
+                right = mid - 1;
+            }else if(guess(mid) == 1){
+                left = mid + 1;
+            }else return mid;
         }
 
-        return end;
+        return -1;
     }
 };
