@@ -12,34 +12,25 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         vector<int> arr;
-        ListNode*temp = head;
-        ListNode *dummy = new ListNode(0);
+        ListNode* temp = head;
+        ListNode* node = new ListNode(0);
 
         while(temp){
             arr.push_back(temp->val);
             temp = temp->next;
         }
 
-        arr[arr.size()-n]  = INT_MIN;
+        arr[arr.size()-n] = INT_MIN;
 
-        for(int val : arr){
-            cout << val << " ";
-        }
+        temp = node;
 
-        temp = dummy;
-        reverse(arr.begin(), arr.end());
-
-        while(!arr.empty()){
-            if(arr.back() == INT_MIN){
-                arr.pop_back();
-                continue; 
+        for(int i = 0; i < arr.size(); i++){
+            if(arr[i] != INT_MIN){
+                temp->next = new ListNode(arr[i]);
+                temp = temp->next;
             }
-
-            temp->next = new ListNode(arr.back());
-            arr.pop_back();
-            temp = temp->next;
         }
 
-        return dummy->next;
+        return node->next;        
     }
 };
