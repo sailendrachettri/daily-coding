@@ -13,10 +13,9 @@ public:
 
         while(left <= mid)
             temp.push_back(nums[left++]);
-        
         while(right <= high)
             temp.push_back(nums[right++]);
-
+        
         for(int i = low; i <= high; i++)
             nums[i] = temp[i-low];
     }
@@ -27,7 +26,6 @@ public:
 
         mergeSort(nums, low, mid);
         mergeSort(nums, mid+1, high);
-
         merge(nums, low, mid, high);
     }
     vector<int> sortArray(vector<int>& nums) {
