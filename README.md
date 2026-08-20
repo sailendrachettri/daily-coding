@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/sailendrachettri/daily-coding/tree/master/3001-apply-operations-to-maximize-score) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sailendrachettri/daily-coding/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sailendrachettri/daily-coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sailendrachettri/daily-coding/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sailendrachettri/daily-coding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sailendrachettri/daily-coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sailendrachettri/daily-coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sailendrachettri/daily-coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sailendrachettri/daily-coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/sailendrachettri/daily-coding/tree/master/3447-clear-digits) |
